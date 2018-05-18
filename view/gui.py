@@ -41,8 +41,7 @@ class Gui:
         :return: None
 
         """
-        external_css = ["https://codepen.io/iPawan/pen/vxqemK.css",
-                        "https://codepen.io/chriddyp/pen/bWLwgP.css"]
+        external_css = ["https://codepen.io/Supermaniac101/pen/WJLNBV.css"]
         for css in external_css:
             self.app.css.append_css({"external_url": css})
 
