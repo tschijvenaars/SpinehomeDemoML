@@ -2,7 +2,7 @@ try:
     import pandas as pd
     import numpy as np
 except ImportError:
-    print("Pandas is not installed")
+    print("Pandas/Numpy is not installed")
     exit()
 
 
