@@ -12,6 +12,8 @@ try:
     from scapy.all import *
     # Import Library of KModes clustering
     from kmodes.kmodes import KModes
+    # Import Library of KMeans clustering
+    from sklearn.cluster import KMeans
     # Import Library of Gaussian Naive Bayes classification
     from sklearn.naive_bayes import GaussianNB
     # Import Library of Random Forest classification
@@ -39,9 +41,10 @@ class Controller:
     ul_dataset = ""
     sl_dataset = ""
     # Machine learning algorithms
-    km = KModes(n_clusters=5, init='Huang', n_init=5, verbose=1)
+    kmodes = KModes(n_clusters=5, init='Huang', n_init=5, verbose=1)
     nb_model = GaussianNB()
     rf_model = RandomForestClassifier(n_estimators=100, oob_score=True, random_state=12356)
+    kmeans = KMeans(n_clusters=5, random_state=0)
     # All encoders
     advice_encoder = preprocessing.LabelEncoder()
     activities_encoder = preprocessing.LabelEncoder()
@@ -72,6 +75,7 @@ class Controller:
         self.make_supervised_set()
         self.create_datasets()
         self.train_kmodes()
+        self.train_kmeans()
         self.train_bayes()
         self.train_random_forest()
         self.get_bayes_confmatrix()
@@ -204,7 +208,7 @@ class Controller:
         :return: Predicted cluster for unseen instance
 
         """
-        prediction = self.km.predict(self.unseen_instance.get_array().reshape(1, -1))[0]
+        prediction = self.kmodes.predict(self.unseen_instance.get_array().reshape(1, -1))[0]
         return prediction
 
     def get_bayes_prediction(self):
@@ -231,13 +235,22 @@ class Controller:
         else:
             return "Error"
 
+    def get_kmeans_prediction(self):
+        """Method for predicting advice label for the unseen instance using Random Forest trees
+
+        :return: Predicted label for unseen instance
+
+        """
+        prediction = self.kmeans.predict(self.unseen_instance.get_array().reshape(1, -1))[0]
+        return prediction
+
     def train_kmodes(self):
         """Method for training kmodes (clustering) model
 
         :return: None
 
         """
-        self.km.fit(self.ul_dataset)
+        self.kmodes.fit(self.ul_dataset)
 
     def train_bayes(self):
         """Method for training Naive Bayes (Gaussian) model
@@ -254,6 +267,14 @@ class Controller:
 
         """
         self.rf_model.fit(self.train_values, self.train_labels)
+
+    def train_kmeans(self):
+        """Method for training Naive Bayes (Gaussian) model
+
+        :return: None
+
+        """
+        self.kmeans.fit(self.train_values)
 
     def get_bayes_accuracy(self):
         """Method for getting the accuracy of the Naive Bayes model using accuracy score and test dataset

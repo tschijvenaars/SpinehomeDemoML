@@ -41,8 +41,7 @@ class Gui:
         :return: None
 
         """
-        external_css = ["https://codepen.io/iPawan/pen/vxqemK.css",
-                        "https://codepen.io/chriddyp/pen/bWLwgP.css"]
+        external_css = ["https://codepen.io/Supermaniac101/pen/WJLNBV.css"]
         for css in external_css:
             self.app.css.append_css({"external_url": css})
 
@@ -295,7 +294,13 @@ class Gui:
                             legend=go.Legend(
                                 x=0,
                                 y=1.0
-                            )
+                            ),
+                            xaxis=dict(
+                                title='Time (s)'
+                            ),
+                            yaxis=dict(
+                                title='Size (bytes)'
+                            ),
                         )
                     ),
                     style={'height': 400},
@@ -403,12 +408,14 @@ class Gui:
                 except ValueError:
                     return "Inserted inputs are unknown to the models."
                 kmodes_pred = self.controller.get_kmodes_prediction()
+                kmeans_pred = self.controller.get_kmeans_prediction()
                 nb_pred = self.controller.get_bayes_prediction()
                 rf_pred = self.controller.get_rf_prediction()
                 acc_nb = self.controller.get_bayes_accuracy()
                 acc_rf = self.controller.get_rf_accuracy()
                 output = html.Div([
-                    html.P(["Unseen instance assigned to cluster: " + str(kmodes_pred)]),
+                    html.P(["Unseen instance assigned to kmodes cluster: " + str(kmodes_pred)]),
+                    html.P(["Unseen instance assigned to kmeans cluster: " + str(kmeans_pred)]),
                     html.P(["Advice from Naive Bayes Algorithm: " + str(str(nb_pred))]),
                     html.P(["Advice from Random Forest Algorithm: " + str(str(rf_pred))]),
                     html.P(["Accuracy of Naive Bayes Model: " + str(round(acc_nb, 2)) + "%"]),
