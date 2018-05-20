@@ -236,9 +236,9 @@ class Controller:
             return "Error"
 
     def get_kmeans_prediction(self):
-        """Method for predicting advice label for the unseen instance using Random Forest trees
+        """Method for predicting kmeans cluster of the unseen instance
 
-        :return: Predicted label for unseen instance
+        :return: Predicted kmeans cluster for unseen instance
 
         """
         prediction = self.kmeans.predict(self.unseen_instance.get_array().reshape(1, -1))[0]
@@ -269,7 +269,7 @@ class Controller:
         self.rf_model.fit(self.train_values, self.train_labels)
 
     def train_kmeans(self):
-        """Method for training Naive Bayes (Gaussian) model
+        """Method for training kmeans (clustering) model
 
         :return: None
 
