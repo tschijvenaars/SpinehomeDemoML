@@ -30,3 +30,8 @@ To run this project, after selecting the right working directory, use the follow
 python main.py
 ```
 
+### Docker integration
+```
+sudo docker build . -t spinehome:no-debug
+sudo docker run -it -p 8050:8050 spinehome:no-debug
+```
