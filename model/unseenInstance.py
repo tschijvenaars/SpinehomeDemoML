@@ -1,5 +1,4 @@
 try:
-    import pandas as pd
     import numpy as np
 except ImportError:
     print("Pandas/Numpy is not installed")
@@ -63,7 +62,7 @@ class UnseenInstance:
         self.activity = activity
 
     def to_string(self):
-        """ToString method to turn the instance to text
+        """ToString method to turn the instance to text for testing purposes
 
         :return: String of all values of the unseen instance
 
@@ -75,7 +74,7 @@ class UnseenInstance:
         )
 
     def get_array(self):
-        """ Method for returning array of all variables
+        """ Method for returning array of all variables to use in kmodes prediction
 
         :return: Returns numpy array of all values of this Unseen Instance
 
@@ -120,7 +119,7 @@ class UnseenInstance:
             return np.array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1])
 
     def is_empty(self):
-        """Helper method to check if values are empty or not.
+        """Helper method to check if values are empty or not. Use for error checking
 
         :return: Boolean if any necessary value is missing
 

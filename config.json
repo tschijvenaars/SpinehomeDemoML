@@ -1,0 +1,7 @@
+{
+  "DEFAULT": {
+    "CSS_URI": "https://codepen.io/Supermaniac101/pen/WJLNBV.css",
+    "DATASET_PATH": "/res/finaladvice.csv",
+    "RES_PATH": "/res/"
+  }
+}
