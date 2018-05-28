@@ -6,6 +6,7 @@ try:
     import os
     import pandas as pd
     import numpy as np
+    import json
     # Import Scapy libraries
     from scapy.layers.dns import DNS
     from scapy.layers.inet import IP, ICMP, UDP, TCP, Ether
@@ -40,11 +41,13 @@ class Controller:
     encoded_instance = ""
     ul_dataset = ""
     sl_dataset = ""
+    config = ""
     # Machine learning algorithms
     kmodes = KModes(n_clusters=5, init='Huang', n_init=5, verbose=1)
     nb_model = GaussianNB()
-    rf_model = RandomForestClassifier(n_estimators=100, oob_score=True, random_state=12356)
-    kmeans = KMeans(n_clusters=5, random_state=0)
+    rf_model = RandomForestClassifier(n_estimators=100, oob_score=True,
+                                      random_state=15425)
+    kmeans = KMeans(n_clusters=5, random_state=241)
     # All encoders
     advice_encoder = preprocessing.LabelEncoder()
     activities_encoder = preprocessing.LabelEncoder()
@@ -70,6 +73,8 @@ class Controller:
         Making a new GUI instance, preparing data for machine learning and starting the app server.
 
         """
+        with open('config.json', 'r') as f:
+            self.config = json.load(f)
         self.gui = gui.Gui(self)
         self.make_unsupervised_set()
         self.make_supervised_set()
@@ -85,7 +90,7 @@ class Controller:
     def create_unseen_instance(self, modem_type, has_router, router_type, router_firmware,
                                subscription, test_upload, test_download, test_ping, processor_type,
                                network_card, has_pcicard, connection, activity):
-        """Method for creating an unseen instance object
+        """Method for creating an unseen instance object to use for machine learning predictions
 
         :param modem_type: Modem type input as string
         :param has_router: Has router input as string
@@ -110,7 +115,7 @@ class Controller:
 
     # noinspection PyBroadException
     def parse_filename(self, filename):
-        """Method for loading pcap-file
+        """Method for loading pcap-file and loading the file
 
         :param filename: Name of the chosen pcap-file
         :return: Statistics Model instance
@@ -118,7 +123,7 @@ class Controller:
         """
         try:
             location = os.getcwd()
-            packets = rdpcap(location + '/res/' + filename)
+            packets = rdpcap(location + self.config['DEFAULT']['RES_PATH'] + filename)
             return self.make_statistics(packets, filename)
         except Exception:
             return 'An error occurred while uploading'
@@ -126,7 +131,7 @@ class Controller:
     @staticmethod
     def make_statistics(packets, filename):
         """Method for loading pcap-file, calculating statistical
-        values and making statistics model instance
+        values and making statistics model instance for displaying on the statistical overview page
 
         :param filename: Filename of the loaded pcap file
         :param packets: Loaded pcap file instance
@@ -165,12 +170,12 @@ class Controller:
         return stats_model
 
     def make_unsupervised_set(self):
-        """Method for preparing unsupervised learning dataset
+        """Method for preparing unsupervised learning dataset to train kmodes and kmeans models
 
         :return: None
 
         """
-        self.ul_dataset = pd.read_csv(os.getcwd() + '/res/finaladvice.csv', sep=',')
+        self.ul_dataset = pd.read_csv(os.getcwd() + self.config['DEFAULT']['DATASET_PATH'], sep=',')
         self.ul_dataset = self.ul_dataset.drop('Advice', 1)
         self.ul_dataset["ModemType"] = self.ul_dataset["ModemType"].astype('category')
         self.ul_dataset["HasRouter"] = self.ul_dataset["HasRouter"].astype('category')
@@ -184,12 +189,12 @@ class Controller:
         self.ul_dataset["RouterSoftware"] = self.ul_dataset["RouterSoftware"].astype('category')
 
     def make_supervised_set(self):
-        """Method for preparing supervised learning dataset
+        """Method for preparing supervised learning dataset to train naive bayes and random forest models
 
         :return: None
 
         """
-        self.sl_dataset = pd.read_csv(os.getcwd() + '/res/finaladvice.csv', sep=',')
+        self.sl_dataset = pd.read_csv(os.getcwd() + self.config['DEFAULT']['DATASET_PATH'], sep=',')
         self.sl_dataset["ModemType"] = self.sl_dataset["ModemType"].astype('category')
         self.sl_dataset["HasRouter"] = self.sl_dataset["HasRouter"].astype('category')
         self.sl_dataset["RouterType"] = self.sl_dataset["RouterType"].astype('category')
@@ -314,6 +319,8 @@ class Controller:
 
     def create_datasets(self):
         """Method for creating test datasets and training datasets
+
+        This method is needed to format the data in Python
 
         :return: None
 

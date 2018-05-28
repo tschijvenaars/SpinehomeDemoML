@@ -21,7 +21,7 @@ class Gui:
     controller = ""
 
     def __init__(self, controller):
-        """GUI class constructor method
+        """GUI class constructor for initializing GUI
 
         :param controller: controller instance of class Controller
 
@@ -41,13 +41,13 @@ class Gui:
         :return: None
 
         """
-        external_css = ["https://codepen.io/Supermaniac101/pen/WJLNBV.css"]
+        external_css = [self.controller.config['DEFAULT']['CSS_URI']]
         for css in external_css:
             self.app.css.append_css({"external_url": css})
 
     @staticmethod
     def get_overview():
-        """Getter method for the main view
+        """Getter method that loads the main overview HTML
 
         :return: Overview variable containing the main view HTML
 
@@ -60,7 +60,7 @@ class Gui:
 
     @staticmethod
     def get_menu():
-        """Getter method for menu component
+        """Getter method that loads menu HTML
 
         :return: Menu component variable containing HTML
 
@@ -73,7 +73,7 @@ class Gui:
         return menu
 
     def get_demo(self):
-        """Getter method for demo page
+        """Getter method that loads demo page HTML
 
         :return: Demo page variable containing the main view HTML
 
@@ -215,7 +215,7 @@ class Gui:
 
     @staticmethod
     def get_statistics_inner(packets):
-        """Getter method for statistics page information inner component
+        """Getter method to load statistics page information inner component HTML
 
         This page is the inner page containing all the information of the pcap analytics page.
 
@@ -311,7 +311,7 @@ class Gui:
         return statistics_div
 
     def get_statistics(self):
-        """Getter method for statistics page without any information
+        """Getter method that loads statistics page HTML without any information
 
         This page is the wapper page of the pcap analytics page.
 
@@ -366,7 +366,7 @@ class Gui:
         return error
 
     def get_callbacks(self):
-        """Getter method of all callback functions
+        """Getter method to retrieve all callbacks of the pages
 
         This page contains all interactive callback functions of all pages
 
