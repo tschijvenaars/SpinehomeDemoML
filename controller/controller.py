@@ -80,7 +80,7 @@ class Controller:
         self.train_random_forest()
         self.get_bayes_confmatrix()
         self.get_rf_confmatrix()
-        self.gui.app.run_server(debug=True)
+        self.gui.app.run_server(debug=False, host='0.0.0.0')
 
     def create_unseen_instance(self, modem_type, has_router, router_type, router_firmware,
                                subscription, test_upload, test_download, test_ping, processor_type,
