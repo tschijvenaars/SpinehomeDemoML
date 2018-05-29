@@ -289,7 +289,7 @@ class Gui:
                             )
                         ],
                         layout=go.Layout(
-                            title='Bytes',
+                            title='Bytes sent over time',
                             showlegend=True,
                             legend=go.Legend(
                                 x=0,
