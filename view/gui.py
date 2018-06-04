@@ -6,6 +6,10 @@ try:
     from dash.dependencies import Input, Output, State
     # Importing plotly
     import plotly.graph_objs as go
+    # Importing base64
+    import base64
+    # Importing os
+    import os
 except ImportError as e:
     print("The following error occurred: " + e.__str__())
     exit()
@@ -67,7 +71,7 @@ class Gui:
         """
         menu = html.Div([
             dcc.Link('Demo   ', href='/demo', className="orange"),
-            dcc.Link('Pcap statistics   ', href='/statistics', className="blue")
+            dcc.Link('Pcap statistics   ', href='/statistics', className="red")
 
         ], className="menu")
         return menu
@@ -79,6 +83,7 @@ class Gui:
 
         """
         demo_page = html.Div(children=[
+                self.get_logo(),
                 self.get_menu(),
                 html.Br([]),
                 html.Div([
@@ -191,13 +196,12 @@ class Gui:
                         html.Label('Activiteit op de computer'),
                         dcc.Dropdown(
                             options=[
-                                {'label': 'Downloading/Torrenting', 'value': 'Downloaden'},
                                 {'label': 'Gamen', 'value': 'Gamen'},
                                 {'label': 'Entertainment (Youtube, Netflix)', 'value': '(video)streamen'},
                                 {'label': 'Surfen (websites bezoeken)', 'value': 'Surfen (websites bezoeken)'},
                                 {'label': 'Downloaden', 'value': 'Downloaden'}
                             ],
-                            multi=False, id='activity', value='download'
+                            multi=False, id='activity', value='Gamen'
                         )
                     ], style={'display': 'inline-block', 'width': '100%'})
                 ], style={'display': 'inline-block', 'columnCount': 3}),
@@ -320,7 +324,7 @@ class Gui:
 
         """
         statistics = html.Div([  # 404
-            # self.get_logo(),
+            self.get_logo(),
             self.get_menu(),
             html.Div([
                 html.Br([]),
@@ -359,11 +363,20 @@ class Gui:
 
         """
         error = html.Div([  # 404
-            html.Br([]),
+            self.get_logo(),
             self.get_menu(),
             html.P(["404 Page not found"])
             ], className="no-page")
         return error
+
+    def get_logo(self):
+        image_filename = os.getcwd() + self.controller.config['DEFAULT']["LOGO_PATH"]  # replace with your own image
+        encoded_image = base64.b64encode(open(image_filename, 'rb').read())
+        logo = html.Div([
+                html.Img(src='data:image/png;base64,{}'.format(encoded_image.decode()),  style={'display': 'block',
+                                                                                                'margin': 'auto'})
+        ])
+        return logo
 
     def get_callbacks(self):
         """Getter method to retrieve all callbacks of the pages
