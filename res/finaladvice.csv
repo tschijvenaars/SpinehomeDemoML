@@ -6,13 +6,13 @@ Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,250 Mbit/s down - 40 Mbit/s up,1
 Connectbox (Arris TG2492LG),Ja,D-Link,Unknown,250 Mbit/s down - 25 Mbit/s up,9,255,26,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD FX8320,Gamen,Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,42,20,"Wifi via 5,0 GHz frequentieband",Intel N6205,Nee,Intel Core i5,Downloaden,Veranderen van netwerkmedium
 Technicolor TC7210,Ja,Apple AirPort,Unknown,400 Mbit/s down - 40 Mbit/s up,12,413,41,Netwerkkabel,Intel I217-V,Nee,Intel Core i5-4460,(video)streamen,Geen verbetering
-Technicolor TC7210,Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,12,40.3,40.9,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-6700,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Technicolor TC7210,Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,12,40.3,40.9,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-6700,Surfen (websites bezoeken),Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,7,207,20,Netwerkkabel,Killer E2200,Nee,AMD FX8370,Gamen,Geen verbetering
 Cisco EPC3925,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,189,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3-4160,(video)streamen,Geen verbetering
-Technicolor TC7210,Ja,Apple AirPort,Unknown,400 Mbit/s down - 40 Mbit/s up,19,408,40,Netwerkkabel,Apple Broadcom,Nee,Intel Core i7,(video)streamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,Apple AirPort,Unknown,400 Mbit/s down - 40 Mbit/s up,19,408,40,Netwerkkabel,Apple Broadcom,Nee,Intel Core i7,(video)streamen,Overbelasting van het netwerk
 Technicolor TC7210,Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,17,43,4,"Wifi via 2,4 GHz frequentieband",Apple Broadcom,Ja,Intel Core i5,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Cisco EPC3925,Ja,tp link deco mesh systeem,Unknown,400 Mbit/s down - 40 Mbit/s up,14,130,24,"Wifi via 2,4 GHz frequentieband",Realtek PCIe GBE Family Controller,Ja,Intel Core i5-8250u,Gamen,Veranderen van modem
-Mediabox XL (7401),Ja,Synolgy router,Unknown,400 Mbit/s down - 40 Mbit/s up,25,350,3,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3,(video)streamen,Overbelasting voor het netwerk
+Mediabox XL (7401),Ja,Synolgy router,Unknown,400 Mbit/s down - 40 Mbit/s up,25,350,3,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3,(video)streamen,Overbelasting van het netwerk
 Technicolor TC7200,Ja,Technicolor TC7200,Unknown,250 Mbit/s down - 25 Mbit/s up,8,253,25,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2600,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Sitecom x6 n900,Unknown,400 Mbit/s down - 40 Mbit/s up,13,93,40,"Wifi via 5,0 GHz frequentieband",Intel AC3168,Nee,Intel Core i7-7500u,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,"Linksys, Apple en de Powerlan van Ziggo",Eigen software per fabrikant!,200 Mbit/s down - 20 Mbit/s up,11,180,20,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Gamen,Veranderen van netwerkmedium
@@ -28,39 +28,39 @@ Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,16
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,200,20,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,Downloaden,Geen verbetering
 Ubee EVM3200,Ja,Apple AirPort,7.6.9,200 Mbit/s down - 20 Mbit/s up,10,95.8,20.6,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,Linksys,Unknown,200 Mbit/s down - 20 Mbit/s up,12,42.5,19.8,"Wifi via 5,0 GHz frequentieband",Broadcom 802.11,Nee,Intel Core i5,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Connectbox (Compal CH7465LG),Ja,netgear,netgear,400 Mbit/s down - 40 Mbit/s up,12,240,40,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-6700k,Gamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,netgear,netgear,400 Mbit/s down - 40 Mbit/s up,12,240,40,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-6700k,Gamen,Overbelasting van het netwerk
 Technicolor TC7210,Ja,Apple AirPort,Versie 7.7.9 / versie 7.6.9,400 Mbit/s down - 40 Mbit/s up,11,404,41,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Arris TG2492LG),Ja,Edimax,Unknown,200 Mbit/s down - 20 Mbit/s up,10,248,40,Netwerkkabel,Intel l217-V,Nee,Intel Core i5-7400,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,204.5,20.2,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-3770,Gamen,Geen verbetering
-Technicolor TC7210,Ja,Synology RT1900ac,1.1,400 Mbit/s down - 40 Mbit/s up,6,319,38,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-4790,Gamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,Synology RT1900ac,1.1,400 Mbit/s down - 40 Mbit/s up,6,319,38,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-4790,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,Asus RT-AC68U,Unknown,400 Mbit/s down - 40 Mbit/s up,11,292,45,"Wifi via 5,0 GHz frequentieband",Unknown,Nee,Unknown,(video)streamen,Veranderen van netwerkmedium
 Cisco EPC3928,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,96.3,19.7,"Wifi via 5,0 GHz frequentieband",Apple BCM5701,Nee,Intel Core i7,Gamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,13,40,4,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Celeron,Surfen (websites bezoeken),Geen verbetering
 Mediabox XL (7400),Nee,Unknown,Unknown,250 Mbit/s down - 25 Mbit/s up,12,68.5,26,"Wifi via 5,0 GHz frequentieband",TP-LINK Wireless USB Adapter,Nee,Intel Core i7-4770,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,18,9,13,"Wifi via 2,4 GHz frequentieband",Apple Broadcom,Nee,Unknown,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,Asus RT-AC68U,Standaard asus firmware,200 Mbit/s down - 20 Mbit/s up,13,204.8,20.5,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,(video)streamen,Geen verbetering
-Technicolor TC7210,Ja,TP-link ACrcher C7,Unknown,250 Mbit/s down - 40 Mbit/s up,9,94.5,41.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-7400,(video)streamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,TP-link ACrcher C7,Unknown,250 Mbit/s down - 40 Mbit/s up,9,94.5,41.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-7400,(video)streamen,Overbelasting van het netwerk
 Technicolor TC7210,Ja,Ubiquiti USG,Ubiquiti Unifi,200 Mbit/s down - 20 Mbit/s up,14,202,19,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Gamen,Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Ja,Ziggo Access Point,Unknown,200 Mbit/s down - 20 Mbit/s up,12,94.3,20.6,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,Downloaden,Overbelasting voor het netwerk
-Connectbox (Compal CH7465LG),Ja,Netgear wnr3500,Unknown,200 Mbit/s down - 20 Mbit/s up,11,94,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-6700,Gamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Ja,Ziggo Access Point,Unknown,200 Mbit/s down - 20 Mbit/s up,12,94.3,20.6,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,Downloaden,Overbelasting van het netwerk
+Connectbox (Compal CH7465LG),Ja,Netgear wnr3500,Unknown,200 Mbit/s down - 20 Mbit/s up,11,94,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-6700,Gamen,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Ja,Asus RT-AC88U met een Asus RT-AC68U (aiMeshnetwerk),Router 3.0.0.4.384_20379 - Node 3.0.0.4.384_20648,400 Mbit/s down - 40 Mbit/s up,12,267,35,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC7260,Nee,Intel Core i7-3610qm,(video)streamen,Veranderen van netwerkmedium
-Connectbox (Compal CH7465LG),Ja,Sitecom,Unknown,200 Mbit/s down - 20 Mbit/s up,35,201,20,Netwerkkabel,Intel l217-V,Nee,Intel Core i7,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,Sitecom,Unknown,200 Mbit/s down - 20 Mbit/s up,35,201,20,Netwerkkabel,Intel l217-V,Nee,Intel Core i7,(video)streamen,Overbelasting van het netwerk
 Technicolor TC7200,Ja,D-link dir-845L,Unknown,200 Mbit/s down - 20 Mbit/s up,23,41,20,"Wifi via 5,0 GHz frequentieband",Intel AC3168,Nee,Intel Core i5-7200u,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Mediabox XL (7401),Ja,Arris,Unknown,200 Mbit/s down - 20 Mbit/s up,13,199,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3-4130,Gamen,Geen verbetering
 Technicolor TC7210,Ja,Netgear R7800,Netgear OS,400 Mbit/s down - 40 Mbit/s up,14,252.7,40.2,"Wifi via 5,0 GHz frequentieband",Intel AC8260,Nee,Intel Core i7-6500u,Downloaden,Veranderen van netwerkmedium
 Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,11,402,41,Netwerkkabel,Realtek 8111HSH,Nee,Intel Core i5-7200u,(video)streamen,Geen verbetering
 Connectbox (Arris TG2492LG),Ja,Sitecom AC2600 WiFi router,Unknown,200 Mbit/s down - 20 Mbit/s up,8,206.8,20.1,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-4790,(video)streamen,Geen verbetering
-Connectbox (Compal CH7465LG),Ja,Linux server,IPtables,250 Mbit/s down - 40 Mbit/s up,12,219,40.9,Netwerkkabel,Realtek 8153,Nee,Intel Core i7,(video)streamen,Overbelasting voor het netwerk
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,204,20.6,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,Linux server,IPtables,250 Mbit/s down - 40 Mbit/s up,12,219,40.9,Netwerkkabel,Realtek 8153,Nee,Intel Core i7,(video)streamen,Overbelasting van het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,204,20.6,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,(video)streamen,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,206.3,20.5,"Wifi via 2,4 GHz frequentieband",Realtek PCIe GBE Family Controller,Nee,Intel Core i5-4570,Downloaden,Geen verbetering
 Technicolor TC7210,Ja,Netgear R7000,Standaard,400 Mbit/s down - 40 Mbit/s up,8,207,41,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC8260,Nee,Intel Core i5-6400,(video)streamen,Veranderen van netwerkmedium
 Technicolor TC7200,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,191,20,Netwerkkabel,Intel 82579,Nee,Intel Core i5-2320,Surfen (websites bezoeken),Geen verbetering
-Cisco EPC3925,Ja,NetGear wndr4300,Unknown,200 Mbit/s down - 20 Mbit/s up,16,40,20,Netwerkkabel,Intel AC8265,Nee,Intel Core i5-7200u,Downloaden,Overbelasting voor het netwerk
-Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,10,188,40,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-2600,Gamen,Overbelasting voor het netwerk
+Cisco EPC3925,Ja,NetGear wndr4300,Unknown,200 Mbit/s down - 20 Mbit/s up,16,40,20,Netwerkkabel,Intel AC8265,Nee,Intel Core i5-7200u,Downloaden,Overbelasting van het netwerk
+Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,10,188,40,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-2600,Gamen,Overbelasting van het netwerk
 Cisco EPC3928,Ja,TP Link Ziggo C7,Unknown,200 Mbit/s down - 20 Mbit/s up,10,45.8,17.8,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros AR956x,Nee,Intel Core i5-6200u,Downloaden,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,TP LINK Gigabit,Unknown,200 Mbit/s down - 20 Mbit/s up,9,203,20,Netwerkkabel,Broadcom 57766-A1,Nee,Intel Core i5,Gamen,Geen verbetering
 Mediabox XL (7401),Ja,Via mediabox xl,00.28.04,200 Mbit/s down - 20 Mbit/s up,13,205,20,"Wifi via 5,0 GHz frequentieband",802.11n Wireless LAN Card,Nee,Intel Core i7,Gamen,Veranderen van netwerkmedium
-Technicolor TC7210,Ja,Asus RT-AC68U,Nieuwste firmware van Asus,400 Mbit/s down - 40 Mbit/s up,12,345,40,Netwerkkabel,Apple BCM5701,Nee,Intel Core i7,Gamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,Asus RT-AC68U,Nieuwste firmware van Asus,400 Mbit/s down - 40 Mbit/s up,12,345,40,Netwerkkabel,Apple BCM5701,Nee,Intel Core i7,Gamen,Overbelasting van het netwerk
 Technicolor TC7210,Ja,Tp-link tl-wr940n,Unknown,200 Mbit/s down - 20 Mbit/s up,8,208.3,18.4,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD A10-7400P,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Asus RT-AC87U,firmware384.4_2,400 Mbit/s down - 40 Mbit/s up,10,406,39,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Linux ATX machine,OpenSuse Tumbleweed,250 Mbit/s down - 25 Mbit/s up,14,254,25.7,Netwerkkabel,Intel 822574L Gigabit (onboard),Nee,Intel Pentium,Downloaden,Veranderen van hardware
@@ -75,8 +75,8 @@ Technicolor TC7210,Ja,D-link Deco M5 (3 stuks Mesh-router),Firm 1.1.6 Build 2017
 Connectbox (Compal CH7465LG),Ja,Unifi,Unknown,400 Mbit/s down - 40 Mbit/s up,55,19.3,29.2,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Unknown,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,Ubiquiti EdgeRouter 5 PoE,EdgeOS 1.10,200 Mbit/s down - 20 Mbit/s up,13,200,21,Netwerkkabel,Intel Gigabit,Nee,Intel Core i7-4790k,(video)streamen,Geen verbetering
 Ubee EVW321B,Ja,TP-Link TL-WR1043ND,Open WRT,200 Mbit/s down - 20 Mbit/s up,11,200,20,Netwerkkabel,Realtek 8111C,Nee,Intel Core i7,Gamen,Geen verbetering
-Connectbox (Arris TG2492LG),Ja,TP Link WR 1043,Gargoyle 1.10.0,200 Mbit/s down - 20 Mbit/s up,11,180,19,Netwerkkabel,Intel Centrino Advanced N-2230,Nee,AMD A10-8700B,(video)streamen,Overbelasting voor het netwerk
-Connectbox (Compal CH7465LG),Ja,Apple AirPort,versie 7.69 ios,250 Mbit/s down - 25 Mbit/s up,14,248.5,19.4,Netwerkkabel,Apple BCM5701,Nee,Intel Core i5,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Ja,TP Link WR 1043,Gargoyle 1.10.0,200 Mbit/s down - 20 Mbit/s up,11,180,19,Netwerkkabel,Intel Centrino Advanced N-2230,Nee,AMD A10-8700B,(video)streamen,Overbelasting van het netwerk
+Connectbox (Compal CH7465LG),Ja,Apple AirPort,versie 7.69 ios,250 Mbit/s down - 25 Mbit/s up,14,248.5,19.4,Netwerkkabel,Apple BCM5701,Nee,Intel Core i5,Surfen (websites bezoeken),Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,200,20,"Wifi via 2,4 GHz frequentieband",Intel Wireless AC7265,Nee,Intel Core i7-5600u,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,15,10.8,10.7,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core 2 Duo,(video)streamen,Veranderen van hardware
 Connectbox (Arris TG2492LG),Ja,TP Link TL-SF1005D,Unknown,250 Mbit/s down - 25 Mbit/s up,12,67,26,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3,(video)streamen,Veranderen van hardware
@@ -84,13 +84,13 @@ Technicolor TC7210,Ja,Tp link archer c3150,Unknown,400 Mbit/s down - 40 Mbit/s u
 Connectbox (Compal CH7465LG),Ja,sitecom,Unknown,200 Mbit/s down - 20 Mbit/s up,10,201.8,20.1,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-4770,Downloaden,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Netgear R7000,Unknown,200 Mbit/s down - 20 Mbit/s up,13,202,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD A6-9200,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,TP-Link Archer C5400,Archer C5400(EU)_V2_170912,200 Mbit/s down - 20 Mbit/s up,12,201.8,20.6,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD Ryzen 5 1600X,Gamen,Geen verbetering
-Cisco EPC3928,Ja,Asus RT-AC66U,Unknown,200 Mbit/s down - 20 Mbit/s up,8,150,20,Netwerkkabel,ASIX AX88179,Nee,Intel Core i7-4500u,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Cisco EPC3928,Ja,Asus RT-AC66U,Unknown,200 Mbit/s down - 20 Mbit/s up,8,150,20,Netwerkkabel,ASIX AX88179,Nee,Intel Core i7-4500u,Surfen (websites bezoeken),Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,206,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Sitecom X6 N900,Unknown,200 Mbit/s down - 20 Mbit/s up,11,190,20,Netwerkkabel,Intel I1217-V,Nee,Intel Core i7-4770k,Gamen,Geen verbetering
 Technicolor TC7210,Ja,fritzbox 7490,06.98,200 Mbit/s down - 20 Mbit/s up,16,36,14,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD E-350,Downloaden,Veranderen van hardware
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,199.4,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-4570,(video)streamen,Geen verbetering
 Ubee EVM3200,Nee,Unknown,Unknown,250 Mbit/s down - 25 Mbit/s up,8,232,25,Netwerkkabel,Broadcom NetXtreme Gigabit Ethernet,Ja,Intel Xeon E3-5530,Downloaden,Geen verbetering
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,9,342.4,40.7,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-4460,Downloaden,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,9,342.4,40.7,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-4460,Downloaden,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,195,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-4770,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Connectbox,Unknown,200 Mbit/s down - 20 Mbit/s up,13,142,20,"Wifi via 5,0 GHz frequentieband",Ralink RT3290,Nee,Intel Core i5,Downloaden,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,TP-Link Archer C2 v1 00000002,0.9.1 4.1 v0032.0 Build 160512 Rel.40318n,400 Mbit/s down - 40 Mbit/s up,18,90.9,36.6,Netwerkkabel,Broadcom 802.11,Nee,Intel Celeron 2955u,Gamen,Veranderen van hardware
@@ -101,7 +101,7 @@ Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,
 Cisco EPC3925,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,191.4,20.8,Netwerkkabel,Unknown,Ja,Intel Core i5,Downloaden,Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,201.3,20.5,Netwerkkabel,Qualcomm Atheros AR816,Nee,Intel Core i7-3770k,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,199,20,"Wifi via 5,0 GHz frequentieband",Intel 1000BGN,Nee,Intel Core i3,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Connectbox (Compal CH7465LG),Ja,pfSense,2.3.4-RELEASE-p1,200 Mbit/s down - 20 Mbit/s up,13,195.4,17.6,Netwerkkabel,Intel I211,Nee,AMD Ryzen 5 1600X,Gamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,pfSense,2.3.4-RELEASE-p1,200 Mbit/s down - 20 Mbit/s up,13,195.4,17.6,Netwerkkabel,Intel I211,Nee,AMD Ryzen 5 1600X,Gamen,Overbelasting van het netwerk
 Mediabox XL (7401),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,15,34,3,"Wifi via 2,4 GHz frequentieband",Realtek PCIe GBE Family Controller,Ja,Intel Celeron J3355,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,81,20,Netwerkkabel,Qualcomm Atheros AR8121/AR8113/AR8114,Nee,Intel Pentium,Downloaden,Veranderen van hardware
 Mediabox XL (7400),Ja,CBN CH7465CE,Unknown,200 Mbit/s down - 20 Mbit/s up,14,61,19,Netwerkkabel,Intel Centrino Advanced N-2230,Nee,Intel Core i5,Surfen (websites bezoeken),Veranderen van hardware
@@ -111,9 +111,9 @@ Connectbox (Compal CH7465LG),Ja,tplink,Unknown,200 Mbit/s down - 20 Mbit/s up,11
 Mediabox XL (7401),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,205.2,20,Netwerkkabel,Intel I1217-LM,Nee,Intel Core i5,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,10,40.9,4,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR9151,Ja,Intel Core i3-2350m,(video)streamen,Geen verbetering
 Mediabox XL (7400),Ja,Lynksys,Unknown,200 Mbit/s down - 20 Mbit/s up,12,207,20,"Wifi via 5,0 GHz frequentieband",Intel I219-V,Nee,Intel Core i5,(video)streamen,Veranderen van netwerkmedium
-Technicolor TC7210,Ja,extra wifi-punt C7,2.0,300 Mbit/s down - 30 Mbit/s up,8,254.2,25.9,Netwerkkabel,Killer E2200,Nee,Intel Core i7-4790k,(video)streamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,extra wifi-punt C7,2.0,300 Mbit/s down - 30 Mbit/s up,8,254.2,25.9,Netwerkkabel,Killer E2200,Nee,Intel Core i7-4790k,(video)streamen,Overbelasting van het netwerk
 Ubee EVW321B,Ja,TP-Link AC1750,Unknown,200 Mbit/s down - 20 Mbit/s up,12,37.8,20.7,"Wifi via 2,4 GHz frequentieband",Intel Centrino Advanced N-2230,Nee,Intel Core i3,(video)streamen,Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,40,199,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3-6100,Downloaden,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,40,199,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3-6100,Downloaden,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,206.7,20.6,Netwerkkabel,Intel 82567LF-2,Nee,Intel Core i7-920,(video)streamen,Veranderen van hardware
 Connectbox (Arris TG2492LG),Ja,Apple Airport Extreme,7.7.9,200 Mbit/s down - 20 Mbit/s up,9,204.3,19.2,Netwerkkabel,Broadcom 57766-A1,Nee,Intel Core i5,(video)streamen,Geen verbetering
 Cisco EPC3928,Ja,Asus RT-AC68U,Unknown,200 Mbit/s down - 20 Mbit/s up,10,203,20.7,Netwerkkabel,Killer E2200,Nee,Intel Core i5,Gamen,Geen verbetering
@@ -127,7 +127,7 @@ Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,
 Technicolor TC7210,Ja,Synology RT1900ac,DSM,400 Mbit/s down - 40 Mbit/s up,10,381,39,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,250 Mbit/s down - 25 Mbit/s up,11,251.8,25.8,Netwerkkabel,Intel I219-V,Nee,Intel Core i5-6500,(video)streamen,Geen verbetering
 Technicolor TC7210,Ja,Fritzbox 7590,Unknown,400 Mbit/s down - 40 Mbit/s up,11,409,40,"Wifi via 5,0 GHz frequentieband",Unknown,Nee,Unknown,(video)streamen,Geen verbetering
-Connectbox (Arris TG2492LG),Ja,Dell,Unknown,250 Mbit/s down - 25 Mbit/s up,30,260,26,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7,Gamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Ja,Dell,Unknown,250 Mbit/s down - 25 Mbit/s up,30,260,26,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,16,43,4,"Wifi via 5,0 GHz frequentieband",Intel AC3165,Nee,Intel Core i7-7700k,Gamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,12,361.3,38.4,Netwerkkabel,Intel Centrino Advanced N-2230,Nee,Intel Core i3,Surfen (websites bezoeken),Veranderen van hardware
 Technicolor TC7210,Ja,TP Link,Unknown,400 Mbit/s down - 40 Mbit/s up,10,400,40,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,(video)streamen,Geen verbetering
@@ -145,19 +145,19 @@ Connectbox (Compal CH7465LG),Ja,Compal CH7465LG,geen idee,200 Mbit/s down - 20 M
 Connectbox (Compal CH7465LG),Ja,Apple AirPort Extreme,Apple os,200 Mbit/s down - 20 Mbit/s up,11,140.5,17.4,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,Unifi,Unknown,400 Mbit/s down - 40 Mbit/s up,11,365,40,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Unknown,Gamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,Netgear R8000,Unknown,200 Mbit/s down - 20 Mbit/s up,11,110,15,"Wifi via 5,0 GHz frequentieband",Intel Centrino Advanced N-6205,Nee,Intel Core i3,Gamen,Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Ja,Dlink 630,Ik denk linux,200 Mbit/s down - 20 Mbit/s up,11,199.8,19.9,Netwerkkabel,Broadcom NetXtreme Gigabit Ethernet,Nee,Intel Core i7-2600qm,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Ja,Dlink 630,Ik denk linux,200 Mbit/s down - 20 Mbit/s up,11,199.8,19.9,Netwerkkabel,Broadcom NetXtreme Gigabit Ethernet,Nee,Intel Core i7-2600qm,(video)streamen,Overbelasting van het netwerk
 Technicolor TC7210,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,195,19,"Wifi via 2,4 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,(video)streamen,Veranderen van netwerkmedium
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,189.4,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-4440,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,189.4,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-4440,(video)streamen,Overbelasting van het netwerk
 Cisco EPC3212,Ja,Cisco WRT610N,Firmwareversie: 1.00.03 B15,200 Mbit/s down - 20 Mbit/s up,10,210,21,"Wifi via 5,0 GHz frequentieband",Intel 82577LC,Nee,Intel Core i5,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Ja,TP-LINK TL-WDR4300,Unknown,200 Mbit/s down - 20 Mbit/s up,10,131,21,"Wifi via 5,0 GHz frequentieband",Broadcom 802.11,Nee,Intel Celeron 2955u,(video)streamen,Veranderen van hardware
 Connectbox (Compal CH7465LG),Ja,Netgear R7000,Unknown,200 Mbit/s down - 20 Mbit/s up,13,200.1,20.8,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD A8-5600K,Downloaden,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,15,26.1,3.6,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC3160,Nee,Intel Celeron N3050,Surfen (websites bezoeken),Veranderen van hardware
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,189,18,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2600,Downloaden,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,189,18,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2600,Downloaden,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,100 Mbit/s down - 10 Mbit/s up,14,102,10,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,46.2,19.8,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR956x,Nee,Intel Core i7-4790,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,185,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-3610qm,Downloaden,Overbelasting voor het netwerk
-Connectbox (Arris TG2492LG),Ja,Mijn modem gecombineerd router,Ik heb wel een TP-Link homeplug,200 Mbit/s down - 20 Mbit/s up,143,75.3,14.9,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD FX8350,Downloaden,Overbelasting voor het netwerk
-Connectbox (Arris TG2492LG),Ja,Apple Airport Extreme,Airport 7.6.8,400 Mbit/s down - 40 Mbit/s up,11,381,41,Netwerkkabel,Qualcomm Atheros AR8171/8175,Ja,Intel Core i7,Gamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,185,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-3610qm,Downloaden,Overbelasting van het netwerk
+Connectbox (Arris TG2492LG),Ja,Mijn modem gecombineerd router,Ik heb wel een TP-Link homeplug,200 Mbit/s down - 20 Mbit/s up,143,75.3,14.9,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD FX8350,Downloaden,Overbelasting van het netwerk
+Connectbox (Arris TG2492LG),Ja,Apple Airport Extreme,Airport 7.6.8,400 Mbit/s down - 40 Mbit/s up,11,381,41,Netwerkkabel,Qualcomm Atheros AR8171/8175,Ja,Intel Core i7,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,205.6,20.6,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-6400,Gamen,Geen verbetering
 Technicolor TC7210,Ja,TPLink Ziggo-C7,Unknown,200 Mbit/s down - 20 Mbit/s up,10,202,20,Netwerkkabel,Realtek 8723BE,Nee,AMD FX8320,Downloaden,Geen verbetering
 Technicolor TC7210,Ja,netgear,Unknown,400 Mbit/s down - 40 Mbit/s up,10,451,41,Netwerkkabel,Intel Centrino Advanced N-2230,Ja,Intel Xeon E3-1220,(video)streamen,Geen verbetering
@@ -168,7 +168,7 @@ Connectbox (Arris TG2492LG),Ja,Connect box DOCSIS 3.0,9.1.116BR6,200 Mbit/s down
 Technicolor TC7200,Ja,ECB1750,Version:1.3.1,40 Mbit/s down - 4 Mbit/s up,13,40.9,4.1,"Wifi via 5,0 GHz frequentieband",Intel AC3160,Nee,Intel Core i7,Downloaden,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,40.3,18.9,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros AR956x,Nee,Intel Core i5-4460,Gamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,17,195,195,"Wifi via 5,0 GHz frequentieband",Qualcomm atheros QCA9377,Nee,Intel Pentium,Surfen (websites bezoeken),Veranderen van hardware
-Technicolor TC7210,Ja,Linksys EA6900,Unknown,400 Mbit/s down - 40 Mbit/s up,4,325,41,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD Ryzen 5 1600,(video)streamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,Linksys EA6900,Unknown,400 Mbit/s down - 40 Mbit/s up,4,325,41,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD Ryzen 5 1600,(video)streamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,Apple AirPort Time Capsule,Unknown,400 Mbit/s down - 40 Mbit/s up,11,404,40,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,(video)streamen,Geen verbetering
 Cisco EPC3928,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,202,20.3,Netwerkkabel,Apple Broadcom,Ja,Intel Core i5,Surfen (websites bezoeken),Geen verbetering
 Technicolor TC7210,Ja,Asus RT-N66U,Unknown,200 Mbit/s down - 20 Mbit/s up,11,217,20,Netwerkkabel,Intel Pro 1000,Ja,Intel Core i5-8600k,Gamen,Geen verbetering
@@ -190,21 +190,21 @@ Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,
 Technicolor TC7210,Ja,Eigen hardware,PFSense,200 Mbit/s down - 20 Mbit/s up,8,205,20,Netwerkkabel,Intel Centrino Advanced N-2230,Nee,Intel Core i7-4770,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,apple timecapsule 1x 4e en 1x m5e generatie,macos 7.6.9 en 7.7.9,250 Mbit/s down - 25 Mbit/s up,14,248.5,19.4,Netwerkkabel,Apple BCM5701,Nee,Intel Core i5,Downloaden,Geen verbetering
 Technicolor TC7210,Ja,Sitecom353E22,Unknown,200 Mbit/s down - 20 Mbit/s up,40,80,23,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Intel Core i5-7200u,Downloaden,Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Ja,ziggo booster,Unknown,250 Mbit/s down - 25 Mbit/s up,12,33,3,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-4770k,Gamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Ja,ziggo booster,Unknown,250 Mbit/s down - 25 Mbit/s up,12,33,3,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-4770k,Gamen,Overbelasting van het netwerk
 Cisco EPC3925,Nee,Unknown,Unknown,50 Mbit/s down - 5 Mbit/s up,30,205,19,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7,Downloaden,Geen verbetering
 Cisco EPC3928,Ja,ASUS RT-AC5300 Wireless Router,Unknown,200 Mbit/s down - 20 Mbit/s up,13,18.7,18.7,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC8260,Nee,Intel Core i7-6500u,Gamen,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,50,40,4.3,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros ARG928x,Nee,Intel Pentium,Downloaden,Veranderen van netwerkmedium
 Technicolor TC7210,Ja,Tc7210,Ziggo IPv6 test,250 Mbit/s down - 25 Mbit/s up,12,251,25.4,"Wifi via 5,0 GHz frequentieband",Unknown,Nee,Unknown,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,13,172,37,"Wifi via 5,0 GHz frequentieband",Unknown,Nee,Unknown,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Ubee EVW321B,Ja,Tp Link extra wifi punt Ziggo C7,Unknown,200 Mbit/s down - 20 Mbit/s up,8,199,19,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-6400,Downloaden,Geen verbetering
-Connectbox (Compal CH7465LG),Ja,Netgear Orbi RBR50,Unknown,400 Mbit/s down - 40 Mbit/s up,11,276,41,Netwerkkabel,Unknown,Nee,Unknown,Gamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,Netgear Orbi RBR50,Unknown,400 Mbit/s down - 40 Mbit/s up,11,276,41,Netwerkkabel,Unknown,Nee,Unknown,Gamen,Overbelasting van het netwerk
 Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,14,401,40,Netwerkkabel,Intel I218-LM,Nee,Intel Core i7,Gamen,Geen verbetering
 Connectbox (Arris TG2492LG),Ja,Linksys EA6400,Unknown,200 Mbit/s down - 20 Mbit/s up,11,204.7,20.3,Netwerkkabel,Killer E2400,Nee,Intel Core i7-6700,Surfen (websites bezoeken),Geen verbetering
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,500 Mbit/s down - 50 Mbit/s up,12,232,50.8,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD Phenom II X4 920,Downloaden,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,500 Mbit/s down - 50 Mbit/s up,12,232,50.8,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD Phenom II X4 920,Downloaden,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Ja,Portal Mesh Wi-Fi Router,https://portalwifi.com/,200 Mbit/s down - 20 Mbit/s up,13,197.1,20.5,"Wifi via 5,0 GHz frequentieband",Unknown,Nee,Unknown,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,ziggo extra modum,Unknown,400 Mbit/s down - 40 Mbit/s up,14,418.2,6.9,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Core i3,Surfen (websites bezoeken),Veranderen van hardware
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,43,20,"Wifi via 2,4 GHz frequentieband",Realtek 8188EE,Nee,Intel Core i3-3110m,Gamen,Veranderen van netwerkmedium
-Connectbox (Compal CH7465LG),Ja,TP-Link Archer C2300,2.0.1 Build 20171121 Rel. 61622,400 Mbit/s down - 40 Mbit/s up,9,362,42,Netwerkkabel,Qualcomm Atheros AR9151,Nee,Intel Core i5-3210m,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,TP-Link Archer C2300,2.0.1 Build 20171121 Rel. 61622,400 Mbit/s down - 40 Mbit/s up,9,362,42,Netwerkkabel,Qualcomm Atheros AR9151,Nee,Intel Core i5-3210m,(video)streamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,Engenius,Engenius enmesh,200 Mbit/s down - 20 Mbit/s up,15,43,20,"Wifi via 2,4 GHz frequentieband",Realtek 8723BE,Ja,Intel Core i5-6200u,Gamen,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,Portal Mesh Wi-Fi,https://portalwifi.com/,200 Mbit/s down - 20 Mbit/s up,12,199.8,20.6,Netwerkkabel,Apple BCM5701,Ja,Intel Core i7,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,199.2,20.3,Netwerkkabel,Intel 82579V,Nee,Intel Core i7-2600,Gamen,Geen verbetering
@@ -221,9 +221,9 @@ Ubee EVW321B,Ja,Netgear R8500,"Microsoft¬¨¬®‚àö√ú Windows 7, 8, Vista
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,12,20.2,"Wifi via 2,4 GHz frequentieband",Intel N7260,Ja,Intel Core i5,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Mediabox XL (7401),Ja,Ziggo Connect Box,Unknown,200 Mbit/s down - 20 Mbit/s up,18,14,13.9,"Wifi via 2,4 GHz frequentieband",Intel Wireless AC3160,Nee,Intel Core i5-5200u,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,25,37,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD A4-4000,Surfen (websites bezoeken),Veranderen van hardware
-Mediabox XL (7401),Ja,Asus + Sitecom,Unknown,200 Mbit/s down - 20 Mbit/s up,15,94,21,Netwerkkabel,Intel 82579LM,Ja,Intel Core i5,(video)streamen,Overbelasting voor het netwerk
+Mediabox XL (7401),Ja,Asus + Sitecom,Unknown,200 Mbit/s down - 20 Mbit/s up,15,94,21,Netwerkkabel,Intel 82579LM,Ja,Intel Core i5,(video)streamen,Overbelasting van het netwerk
 Cisco EPC3212,Ja,Asus  RT87U,3.0.0.4.384. 0.2,250 Mbit/s down - 25 Mbit/s up,20,250,25,Netwerkkabel,Intel I1217-V,Nee,Intel Core i5-4590,Surfen (websites bezoeken),Geen verbetering
-Connectbox (Compal CH7465LG),Ja,Asus RT-AC3200,Unknown,200 Mbit/s down - 20 Mbit/s up,12,78.2,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2600,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,Asus RT-AC3200,Unknown,200 Mbit/s down - 20 Mbit/s up,12,78.2,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2600,(video)streamen,Overbelasting van het netwerk
 Cisco EPC3928,Ja,RT-AC66U,3.0.0.4.380,200 Mbit/s down - 20 Mbit/s up,8,251.2,20.6,Netwerkkabel,Apple Broadcom,Nee,Intel Core i7,(video)streamen,Geen verbetering
 Technicolor TC7210,Ja,Ubiquity USG,Vayatta,200 Mbit/s down - 20 Mbit/s up,10,201,19.8,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,(video)streamen,Geen verbetering
 Mediabox XL (7400),Ja,TP-link,Unknown,200 Mbit/s down - 20 Mbit/s up,13,146,20,"Wifi via 5,0 GHz frequentieband",Unknown,Nee,Unknown,Surfen (websites bezoeken),Veranderen van netwerkmedium
@@ -235,9 +235,9 @@ Mediabox XL (7400),Ja,Ziggo CH7465LG-ZG,CH7465LG-NCIP-4.50.18.23-4m1-GA-NOSH,250
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,200,20,"Wifi via 5,0 GHz frequentieband",Intel AC8260,Nee,Intel Core i5,Gamen,Geen verbetering
 Technicolor TC7210,Ja,TP Link,V1 102,400 Mbit/s down - 40 Mbit/s up,10,400,38,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-6200,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,10,219,23,"Wifi via 5,0 GHz frequentieband",Intel AC7260,Nee,Intel Core i5,Downloaden,Veranderen van netwerkmedium
-Cisco EPC3928,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,91.7,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-2430m,Downloaden,Overbelasting voor het netwerk
+Cisco EPC3928,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,91.7,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-2430m,Downloaden,Overbelasting van het netwerk
 Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,11,271,40,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Unknown,(video)streamen,Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Ja,TP-Link TC-SG105-Switch,Unknown,200 Mbit/s down - 20 Mbit/s up,16,197,18,Netwerkkabel,Qualcomm Atheros AR8161,Nee,Intel Core i3,Downloaden,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Ja,TP-Link TC-SG105-Switch,Unknown,200 Mbit/s down - 20 Mbit/s up,16,197,18,Netwerkkabel,Qualcomm Atheros AR8161,Nee,Intel Core i3,Downloaden,Overbelasting van het netwerk
 Ubee EVW321B,Ja,TP Link,Unknown,250 Mbit/s down - 25 Mbit/s up,10,236,23,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-2500k,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Apple Extreme,Mac software 7.6.9,200 Mbit/s down - 20 Mbit/s up,10,92,20,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,SITECOM,Unknown,200 Mbit/s down - 20 Mbit/s up,14,207,21,Netwerkkabel,Realtek 8111C,Nee,Intel Core 2 Duo,Downloaden,Veranderen van hardware
@@ -250,8 +250,8 @@ Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,1
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,203.6,20.4,Netwerkkabel,Intel I210,Nee,Intel Core i7-4770,Downloaden,Geen verbetering
 Cisco EPC3925,Ja,Epc3925,Unknown,200 Mbit/s down - 20 Mbit/s up,36,43,15.3,"Wifi via 2,4 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,6,176,20.5,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Intel Core i5,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Connectbox (Compal CH7465LG),Ja,D-link DIR-655,Unknown,400 Mbit/s down - 40 Mbit/s up,13,54,32,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD Ryzen 7 1700,Gamen,Overbelasting voor het netwerk
-Connectbox (Arris TG2492LG),Ja,Netgear R8000 Nighthawk X6,V1.0.4.12,400 Mbit/s down - 40 Mbit/s up,10,180,29,Netwerkkabel,Unknown,Nee,Intel Core i3,Gamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,D-link DIR-655,Unknown,400 Mbit/s down - 40 Mbit/s up,13,54,32,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD Ryzen 7 1700,Gamen,Overbelasting van het netwerk
+Connectbox (Arris TG2492LG),Ja,Netgear R8000 Nighthawk X6,V1.0.4.12,400 Mbit/s down - 40 Mbit/s up,10,180,29,Netwerkkabel,Unknown,Nee,Intel Core i3,Gamen,Overbelasting van het netwerk
 Technicolor TC7210,Ja,F-Secure Sense,F-secure Sense,400 Mbit/s down - 40 Mbit/s up,11,52,37,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Unknown,Gamen,Veranderen van netwerkmedium
 Mediabox XL (7400),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,8,40.9,4.9,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-2320,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Connectbox CH7465LG/ZG,n.b.,200 Mbit/s down - 20 Mbit/s up,9,51.4,19.6,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros QCA9377,Nee,Intel Core i5-5200u,Downloaden,Veranderen van netwerkmedium
@@ -263,24 +263,24 @@ Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,250 Mbit/s down - 25 Mbit/s up,10,256.7,25.6,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7,Gamen,Geen verbetering
 Connectbox (Arris TG2492LG),Ja,Sitecom AC1750,Unknown,200 Mbit/s down - 20 Mbit/s up,13,71,19,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD E-300,Surfen (websites bezoeken),Veranderen van hardware
 Technicolor TC7210,Ja,ASUS RT-N66U Dual-band Wireless-N900,Unknown,200 Mbit/s down - 20 Mbit/s up,13,205,20,Netwerkkabel,Apple BCM5701,Ja,Intel Core i5,(video)streamen,Geen verbetering
-Cisco EPC3212,Ja,Asus rt-ni6,JRS ECO,200 Mbit/s down - 20 Mbit/s up,16,55.9,12.3,Netwerkkabel,Apple Broadcom,Nee,Intel Core i7-2600,(video)streamen,Overbelasting voor het netwerk
+Cisco EPC3212,Ja,Asus rt-ni6,JRS ECO,200 Mbit/s down - 20 Mbit/s up,16,55.9,12.3,Netwerkkabel,Apple Broadcom,Nee,Intel Core i7-2600,(video)streamen,Overbelasting van het netwerk
 Cisco EPC3212,Ja,Netgear Nighthawk X4S R7800,Unknown,200 Mbit/s down - 20 Mbit/s up,15,200,20,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC7265,Nee,Intel Core i5-8250u,(video)streamen,Veranderen van netwerkmedium
 Technicolor TC7210,Ja,Asus RT-AC3200,asuswrt- merlin,400 Mbit/s down - 40 Mbit/s up,9,401,40,Netwerkkabel,Intel I219-V,Ja,Intel Core i7-6700k,(video)streamen,Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,197,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-4790k,Surfen (websites bezoeken),Geen verbetering
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,16,60,40,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD A6-7310,Surfen (websites bezoeken),Overbelasting voor het netwerk
-Connectbox (Compal CH7465LG),Ja,Nighthawk X6 R8000,V1.0.4.12_10.1.46 (Firmware van Netgear),250 Mbit/s down - 25 Mbit/s up,9,186,23,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-7700k,Downloaden,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,16,60,40,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD A6-7310,Surfen (websites bezoeken),Overbelasting van het netwerk
+Connectbox (Compal CH7465LG),Ja,Nighthawk X6 R8000,V1.0.4.12_10.1.46 (Firmware van Netgear),250 Mbit/s down - 25 Mbit/s up,9,186,23,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-7700k,Downloaden,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,47,3.98,0.68,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Unknown,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Technicolor TC7200,Ja,Netgear Nighthawk R7000,Unknown,200 Mbit/s down - 20 Mbit/s up,13,94.2,20.6,Netwerkkabel,Intel I219-V,Ja,Intel Core i7-6700,Downloaden,Overbelasting voor het netwerk
+Technicolor TC7200,Ja,Netgear Nighthawk R7000,Unknown,200 Mbit/s down - 20 Mbit/s up,13,94.2,20.6,Netwerkkabel,Intel I219-V,Ja,Intel Core i7-6700,Downloaden,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Ja,Linkssys 1200+,1.0.5.182871,200 Mbit/s down - 20 Mbit/s up,15,37,19,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR9285,Nee,Intel Core i3-m380,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Mediabox XL (7400),Ja,connectbox CH7465G,windows,200 Mbit/s down - 20 Mbit/s up,13,57.4,20.1,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3,(video)streamen,Overbelasting voor het netwerk
+Mediabox XL (7400),Ja,connectbox CH7465G,windows,200 Mbit/s down - 20 Mbit/s up,13,57.4,20.1,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3,(video)streamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,250 Mbit/s down - 25 Mbit/s up,10,238,25,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5,Downloaden,Geen verbetering
-Technicolor TC7210,Ja,NetGear Nighthawk X6 R8000,NetGear eigen software,400 Mbit/s down - 40 Mbit/s up,10,417,22,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-5200u,(video)streamen,Overbelasting voor het netwerk
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,15,342,40,Netwerkkabel,Intel I217-V,Nee,Intel Core i3-4160,Gamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,NetGear Nighthawk X6 R8000,NetGear eigen software,400 Mbit/s down - 40 Mbit/s up,10,417,22,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-5200u,(video)streamen,Overbelasting van het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,15,342,40,Netwerkkabel,Intel I217-V,Nee,Intel Core i3-4160,Gamen,Overbelasting van het netwerk
 Cisco EPC3212,Ja,TP-Link AC 1200,Unknown,200 Mbit/s down - 20 Mbit/s up,9,182,20.4,Netwerkkabel,Unknown,Nee,Intel Core i3,Downloaden,Geen verbetering
-Connectbox (Compal CH7465LG),Ja,TP Link,Unknown,400 Mbit/s down - 40 Mbit/s up,12,41.1,39.95,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7,Surfen (websites bezoeken),Overbelasting voor het netwerk
-Connectbox (Compal CH7465LG),Ja,Asus rt-ac66u,Merlin 380.69_2,400 Mbit/s down - 40 Mbit/s up,14,378,41,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-6700k,Gamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,TP Link,Unknown,400 Mbit/s down - 40 Mbit/s up,12,41.1,39.95,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7,Surfen (websites bezoeken),Overbelasting van het netwerk
+Connectbox (Compal CH7465LG),Ja,Asus rt-ac66u,Merlin 380.69_2,400 Mbit/s down - 40 Mbit/s up,14,378,41,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-6700k,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,De mediabox,CH7465LG-NCIP-4.50.18.23-4m1-GA-NOSH,400 Mbit/s down - 40 Mbit/s up,15,402,41.3,Netwerkkabel,Intel I217-V,Nee,Intel Core i5-4440,(video)streamen,Geen verbetering
-Cisco EPC3928,Ja,Netgear R7000,Firmware V1.0.9.18_1.2.27,200 Mbit/s down - 20 Mbit/s up,13,98.6,20.6,Netwerkkabel,Intel I218-LM,Nee,Intel Core i5,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Cisco EPC3928,Ja,Netgear R7000,Firmware V1.0.9.18_1.2.27,200 Mbit/s down - 20 Mbit/s up,13,98.6,20.6,Netwerkkabel,Intel I218-LM,Nee,Intel Core i5,Surfen (websites bezoeken),Overbelasting van het netwerk
 Technicolor TC7210,Ja,Netgear wd45,Unknown,200 Mbit/s down - 20 Mbit/s up,12,172.4,20.6,"Wifi via 5,0 GHz frequentieband",Sitecom,Nee,Intel Core i5,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,48,204.3,20.6,Netwerkkabel,RealtekPCle GBE Family Controller,Nee,Intel Core i3-4130,Downloaden,Veranderen van hardware
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,50 Mbit/s down - 5 Mbit/s up,14,50,5,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR956x,Nee,Intel Celeron N3050,Surfen (websites bezoeken),Geen verbetering
@@ -290,11 +290,11 @@ Connectbox (Arris TG2492LG),Ja,Apple AirPort 3GB,Unknown,200 Mbit/s down - 20 Mb
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,36,15,"Wifi via 2,4 GHz frequentieband",Broadcom 802.11,Nee,Intel Core i7-2600qm,Downloaden,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,asus,windows 10,200 Mbit/s down - 20 Mbit/s up,10,187,10,Netwerkkabel,Intel Pro 1000,Ja,Intel Core i7-920,Gamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,221.8,7,Netwerkkabel,Intel 82579LM,Nee,Intel Core i5-2500k,(video)streamen,Geen verbetering
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,17,31,21,Netwerkkabel,Apple BCM5701,Nee,Intel Core i7,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,17,31,21,Netwerkkabel,Apple BCM5701,Nee,Intel Core i7,Surfen (websites bezoeken),Overbelasting van het netwerk
 Cisco EPC3928,Ja,TP-link N750,Standaard firmware,200 Mbit/s down - 20 Mbit/s up,9,189.2,20.8,Netwerkkabel,Intel I1217-LM,Nee,Intel Core i5-4570,(video)streamen,Geen verbetering
 Technicolor TC7210,Ja,Apple Airport Extreme,Unknown,200 Mbit/s down - 20 Mbit/s up,11,203,20,Netwerkkabel,Apple Broadcom,Nee,Intel Core 2 Duo,(video)streamen,Geen verbetering
-Technicolor TC7210,Ja,Ubiquiti EdgeRouter X,EdgeOS v1.10.1,200 Mbit/s down - 20 Mbit/s up,7,85,14,Netwerkkabel,Intel I218-V,Ja,Intel Core i7-4790k,Gamen,Overbelasting voor het netwerk
-Cisco EPC3925,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,6,49.6,25.9,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3,(video)streamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,Ubiquiti EdgeRouter X,EdgeOS v1.10.1,200 Mbit/s down - 20 Mbit/s up,7,85,14,Netwerkkabel,Intel I218-V,Ja,Intel Core i7-4790k,Gamen,Overbelasting van het netwerk
+Cisco EPC3925,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,6,49.6,25.9,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3,(video)streamen,Overbelasting van het netwerk
 Mediabox XL (7401),Ja,Tp link AV500 Hybrid Wi-Fi Dual Band,Unknown,400 Mbit/s down - 40 Mbit/s up,16,399,40,Netwerkkabel,Intel l217-V,Ja,Intel Core i5-6600,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Sitecom Greyhound,Staat als ‚Äö√Ñ√∂‚àö√ë‚àö‚à´spanning bridge‚Äö√Ñ√∂‚àö√ë‚àöœÄ ingesteld. OpenWRT software,400 Mbit/s down - 40 Mbit/s up,14,334,45,"Wifi via 5,0 GHz frequentieband",Realtek PCIe GBE Family Controller,Ja,Intel Core i7,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,204,20,"Wifi via 2,4 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Gamen,Geen verbetering
@@ -302,25 +302,25 @@ Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,
 Thomson TWG870,Ja,D-Link DIR-868L,Firmware Version : 1.07 Hardware: A1,250 Mbit/s down - 25 Mbit/s up,9,186,18,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros AR5BWB222,Nee,Intel Core i5-3210m,Surfen (websites bezoeken),Veranderen van hardware
 Technicolor TC7210,Nee,Unknown,Unknown,250 Mbit/s down - 25 Mbit/s up,9,255,25.4,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-7700k,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Ja,TP-Link AC1750,Unknown,200 Mbit/s down - 20 Mbit/s up,15,56,19,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros QCA61x4A,Nee,Intel Core i5,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Technicolor TC7210,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,54,4,Netwerkkabel,Marvell Yukon,Nee,Intel Core i3,(video)streamen,Overbelasting voor het netwerk
+Technicolor TC7210,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,54,4,Netwerkkabel,Marvell Yukon,Nee,Intel Core i3,(video)streamen,Overbelasting van het netwerk
 Cisco EPC3928,Ja,Netgear R6300,Unknown,250 Mbit/s down - 40 Mbit/s up,12,97,34,"Wifi via 5,0 GHz frequentieband",NETGEAR A6210,Nee,Intel Core i7-920,Gamen,Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,186,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-3770k,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,186,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-3770k,(video)streamen,Overbelasting van het netwerk
 Technicolor TC7210,Ja,Netgear R7000 Nighthawk,linux variant,200 Mbit/s down - 20 Mbit/s up,12,200.1,20.4,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-2500k,Downloaden,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,38.4,19.9,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR9285,Nee,Intel Core i5,Downloaden,Veranderen van netwerkmedium
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,42,12,Netwerkkabel,TP-LINK Wireless USB Adapter,Nee,Intel Core i5,Gamen,Overbelasting voor het netwerk
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,143,13,Netwerkkabel,Intel Centrino Advanced N-2230,Ja,Intel Pentium,Downloaden,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,42,12,Netwerkkabel,TP-LINK Wireless USB Adapter,Nee,Intel Core i5,Gamen,Overbelasting van het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,143,13,Netwerkkabel,Intel Centrino Advanced N-2230,Ja,Intel Pentium,Downloaden,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Ja,Netgear Rangemax Wireless Router,Unknown,50 Mbit/s down - 5 Mbit/s up,12,51,5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD A8-6600K,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,12,37,23,"Wifi via 2,4 GHz frequentieband",Broadcom BCM43142,Nee,Intel Core i5-4210u,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Technicolor TC7210,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,217.4,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD A6-6400K,Downloaden,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,204,20,Netwerkkabel,EMC 2638,Nee,Intel Core i5,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,189.3,20.2,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-3770,(video)streamen,Geen verbetering
-Cisco EPC3928,Ja,Linksys EA8500,Linksys connect,40 Mbit/s down - 4 Mbit/s up,22,4,1,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-3570,(video)streamen,Overbelasting voor het netwerk
+Cisco EPC3928,Ja,Linksys EA8500,Linksys connect,40 Mbit/s down - 4 Mbit/s up,22,4,1,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-3570,(video)streamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,66.6,20.7,"Wifi via 5,0 GHz frequentieband",DW1525,Nee,Intel Core i5,Downloaden,Veranderen van netwerkmedium
 Ubee EVM3200,Ja,Linksys EA8300,Standaard firmware,200 Mbit/s down - 20 Mbit/s up,10,165,19,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Gamen,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,33.3,19.8,"Wifi via 2,4 GHz frequentieband",Apple Broadcom,Nee,Unknown,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Ubee EVM3200,Ja,Linksys E8350,Unknown,200 Mbit/s down - 20 Mbit/s up,16,57,17,"Wifi via 2,4 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,204,21,"Wifi via 2,4 GHz frequentieband",Broadcom 802.11,Nee,Intel Celeron,Surfen (websites bezoeken),Overbelasting voor het netwerk
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,47.5,18.2,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-7200u,Downloaden,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,204,21,"Wifi via 2,4 GHz frequentieband",Broadcom 802.11,Nee,Intel Celeron,Surfen (websites bezoeken),Overbelasting van het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,47.5,18.2,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-7200u,Downloaden,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,Airport extreme,Apple,400 Mbit/s down - 40 Mbit/s up,16,390,40,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Unknown,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,204,20.6,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,sitecom AC2600,Unknown,200 Mbit/s down - 20 Mbit/s up,9,49.3,20.3,"Wifi via 2,4 GHz frequentieband",Broadcom 802.11,Nee,Intel Core i5-2410m,Surfen (websites bezoeken),Veranderen van netwerkmedium
@@ -329,25 +329,25 @@ Connectbox (Arris TG2492LG),Ja,Timecapsule (Apple),OS,200 Mbit/s down - 20 Mbit/
 Connectbox (Arris TG2492LG),Ja,Timecapsule (Apple),OS,200 Mbit/s down - 20 Mbit/s up,15,190,20,Netwerkkabel,Apple BCM5701,Nee,Intel Core i5,Gamen,Geen verbetering
 Hitron CGNV4,Ja,Fortigate 60d,Forti os,200 Mbit/s down - 20 Mbit/s up,7,196,8,"Wifi via 5,0 GHz frequentieband",Intel I219-V,Nee,Intel Core i7-6700k,Gamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,19,396,39,Netwerkkabel,Intel Gigabit,Nee,Intel Pentium,(video)streamen,Veranderen van hardware
-Mediabox XL (7401),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,25,200,22,Netwerkkabel,TP-Link Gigabit PCI Express Adapter,Ja,AMD Athlon II X2 220,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Mediabox XL (7401),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,25,200,22,Netwerkkabel,TP-Link Gigabit PCI Express Adapter,Ja,AMD Athlon II X2 220,Surfen (websites bezoeken),Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Ja,Ubiquiti USG 3P,Unifi OS,400 Mbit/s down - 40 Mbit/s up,11,400,40,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,Gamen,Geen verbetering
 Hitron CGNV4,Nee,Unknown,Unknown,250 Mbit/s down - 40 Mbit/s up,14,16,30,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros QCA9377,Nee,Intel Core i5-7200u,Downloaden,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,asus rt-ac66u,Unknown,400 Mbit/s down - 40 Mbit/s up,11,387,40,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-950,(video)streamen,Geen verbetering
 Mediabox XL (7400),Ja,Connect Box TG2493LG,Unknown,200 Mbit/s down - 20 Mbit/s up,8,192,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-6500,(video)streamen,Geen verbetering
 Mediabox XL (7401),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,257.3,29.9,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-4440,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,204,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-7700k,Gamen,Geen verbetering
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,207,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7,Gamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,207,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,100 Mbit/s down - 10 Mbit/s up,9,100,10,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD FX6300,Surfen (websites bezoeken),Geen verbetering
-Technicolor TC7210,Ja,tp-link ac3200,Unknown,400 Mbit/s down - 40 Mbit/s up,10,399,41,Netwerkkabel,Intel l217-V,Nee,Intel Core i7-4970,Gamen,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,tp-link ac3200,Unknown,400 Mbit/s down - 40 Mbit/s up,10,399,41,Netwerkkabel,Intel l217-V,Nee,Intel Core i7-4970,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,191,20,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5-2400s,Gamen,Veranderen van netwerkmedium
 Technicolor TC7200,Ja,asus rt-ac87u,1.0.0.3.26,400 Mbit/s down - 40 Mbit/s up,16,340,40,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros QCA9565,Ja,Intel Core i5-4210u,(video)streamen,Veranderen van modem
-Connectbox (Arris TG2492LG),Ja,ASUS RT-AC87U,ASUS RT-AC87U Firmware,200 Mbit/s down - 20 Mbit/s up,12,192,18,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD Ryzen 7 1700,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Ja,ASUS RT-AC87U,ASUS RT-AC87U Firmware,200 Mbit/s down - 20 Mbit/s up,12,192,18,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD Ryzen 7 1700,Surfen (websites bezoeken),Overbelasting van het netwerk
 Technicolor TC7210,Ja,Asus RT-AC88U,AsusWRT-Merlin,400 Mbit/s down - 40 Mbit/s up,11,407,40,"Wifi via 5,0 GHz frequentieband",Killer AC1535,Nee,Intel Core i7-6500u,(video)streamen,Geen verbetering
-Technicolor TC7210,Ja,Linksys 07215,Unknown,400 Mbit/s down - 40 Mbit/s up,12,364.9,36.6,Netwerkkabel,Killer E2200,Ja,Intel Core i7-3770,Downloaden,Overbelasting voor het netwerk
+Technicolor TC7210,Ja,Linksys 07215,Unknown,400 Mbit/s down - 40 Mbit/s up,12,364.9,36.6,Netwerkkabel,Killer E2200,Ja,Intel Core i7-3770,Downloaden,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Ja,Asus rt-ac87u,Unknown,400 Mbit/s down - 40 Mbit/s up,9,386,41,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-3570,(video)streamen,Geen verbetering
 Cisco EPC3925,Ja,Netgear R7000,Unknown,400 Mbit/s down - 40 Mbit/s up,6,103,25,"Wifi via 2,4 GHz frequentieband",Intel l217-V,Nee,Intel Core i7-7500,(video)streamen,Veranderen van modem
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,201,21,Netwerkkabel,Intel 82579LM,Nee,Intel Core i5-3230m,(video)streamen,Geen verbetering
-Connectbox (Arris TG2492LG),Ja,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,91,21,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3,Downloaden,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Ja,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,91,21,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3,Downloaden,Overbelasting van het netwerk
 Mediabox XL (7401),Ja,sitecom,Unknown,200 Mbit/s down - 20 Mbit/s up,11,32.8,12,"Wifi via 2,4 GHz frequentieband",Realtek PCIe GBE Family Controller,Nee,AMD,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,14,40,30,"Wifi via 2,4 GHz frequentieband",802.11n Wireless LAN Card,Nee,Intel Celeron,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,41,20,"Wifi via 2,4 GHz frequentieband",Intel AC3160,Nee,Intel Celeron,Surfen (websites bezoeken),Veranderen van netwerkmedium
@@ -357,7 +357,7 @@ Connectbox (Compal CH7465LG),Ja,Asus Ac-87,Unknown,200 Mbit/s down - 20 Mbit/s u
 Cisco EPC3928,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,198.2,20.3,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5,(video)streamen,Geen verbetering
 Technicolor TC7200,Ja,Draytek vigor 2925,3.8.8,400 Mbit/s down - 40 Mbit/s up,8,496.6,51.6,Netwerkkabel,Realtek 8111H,Ja,Intel Core i7-6700,(video)streamen,Veranderen van modem
 Connectbox (Compal CH7465LG),Ja,ASUS RTAC87U,3.0.0.4.382_50010-gb0c6a12,400 Mbit/s down - 40 Mbit/s up,11,402,43,Netwerkkabel,Unknown,Nee,Unknown,(video)streamen,Geen verbetering
-Connectbox (Compal CH7465LG),Ja,TP-LINK Touch p5 (AC1900),Unknown,200 Mbit/s down - 20 Mbit/s up,14,164,21,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-4460,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,TP-LINK Touch p5 (AC1900),Unknown,200 Mbit/s down - 20 Mbit/s up,14,164,21,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-4460,(video)streamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,238,38,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-2600k,Downloaden,Geen verbetering
 Ubee EVW321B,Ja,Orbi (netgear),Unknown,250 Mbit/s down - 25 Mbit/s up,22,251.1,25.5,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros QCA9377,Nee,Intel Core i3-6100,(video)streamen,Veranderen van netwerkmedium
 Cisco EPC3928,Ja,ASUS RT-AC68U,Asuswrt-Merlin,200 Mbit/s down - 20 Mbit/s up,9,144,21,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC8260,Nee,Intel Core i7-6500u,Surfen (websites bezoeken),Veranderen van netwerkmedium
@@ -367,9 +367,9 @@ Connectbox (Compal CH7465LG),Ja,Apple AirPort Time Capsule,7.7.9,400 Mbit/s down
 Connectbox (Compal CH7465LG),Ja,TP link AC1750,Unknown,200 Mbit/s down - 20 Mbit/s up,12,39.4,19.6,"Wifi via 2,4 GHz frequentieband",Broadcom 802.11,Nee,Intel Core i7-5820k,Downloaden,Veranderen van netwerkmedium
 Cisco EPC3925,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,200,20,Netwerkkabel,Apple Broadcom,Ja,Intel Core i5,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,15,402,40,Netwerkkabel,Intel  82579V,Nee,Intel Core i7-3770,(video)streamen,Geen verbetering
-Mediabox XL (7400),Ja,Ubiquiti unifi-security-gateway-pro-4,linux,200 Mbit/s down - 20 Mbit/s up,6,92,89,Netwerkkabel,Intel  I217-V,Nee,Intel Core i5-4460,Gamen,Overbelasting voor het netwerk
+Mediabox XL (7400),Ja,Ubiquiti unifi-security-gateway-pro-4,linux,200 Mbit/s down - 20 Mbit/s up,6,92,89,Netwerkkabel,Intel  I217-V,Nee,Intel Core i5-4460,Gamen,Overbelasting van het netwerk
 Technicolor TC7210,Ja,Asus RT-AC3200 Triband,Asus firmware,400 Mbit/s down - 40 Mbit/s up,10,405.6,38,Netwerkkabel,Qualcomm Atheros AR8171,Ja,AMD A8-7600,Gamen,Geen verbetering
-Cisco EPC3928AD,Ja,Sitecom WLR-5002,Unknown,200 Mbit/s down - 20 Mbit/s up,9,94,26,Netwerkkabel,Intel I218-V,Ja,Intel Core i7-5820k,(video)streamen,Overbelasting voor het netwerk
+Cisco EPC3928AD,Ja,Sitecom WLR-5002,Unknown,200 Mbit/s down - 20 Mbit/s up,9,94,26,Netwerkkabel,Intel I218-V,Ja,Intel Core i7-5820k,(video)streamen,Overbelasting van het netwerk
 Ubee EVM3200,Ja,Netgear,Unknown,200 Mbit/s down - 20 Mbit/s up,18,248,25.7,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2600,Gamen,Geen verbetering
 Connectbox (Arris TG2492LG),Ja,Netgear R6300 WiFi Router,Unknown,400 Mbit/s down - 40 Mbit/s up,9,400,39,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-3770,(video)streamen,Geen verbetering
 Connectbox (Arris TG2492LG),Ja,ASUS RT-AC87U,Unknown,200 Mbit/s down - 20 Mbit/s up,13,37,20,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR9002WB-1NG,Nee,Intel Core i7-2600qm,Surfen (websites bezoeken),Veranderen van netwerkmedium
@@ -379,7 +379,7 @@ Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,
 Technicolor TC7210,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,202.5,20.7,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-3210m,Downloaden,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,201,20,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,Downloaden,Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,214,20,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC3165,Nee,Intel Core i3-5005u,(video)streamen,Veranderen van netwerkmedium
-Technicolor TC7200,Ja,Sitecom Wi-Fi router X8 AC1750,Unknown,200 Mbit/s down - 20 Mbit/s up,30,125.5,20,Netwerkkabel,Killer E2200,Nee,Intel Core i5-4690k,Gamen,Overbelasting voor het netwerk
+Technicolor TC7200,Ja,Sitecom Wi-Fi router X8 AC1750,Unknown,200 Mbit/s down - 20 Mbit/s up,30,125.5,20,Netwerkkabel,Killer E2200,Nee,Intel Core i5-4690k,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,Asus RT-AC68U,Unknown,400 Mbit/s down - 40 Mbit/s up,12,250,40,"Wifi via 5,0 GHz frequentieband",Realtek PCIe GBE Family Controller,Nee,Intel Core i5,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,168,20,"Wifi via 5,0 GHz frequentieband",802.11n Wireless LAN Card,Nee,Intel Celeron 3855u,(video)streamen,Veranderen van netwerkmedium
 Cisco EPC3212,Ja,Netgear Nighthawk R 7000,Unknown,250 Mbit/s down - 25 Mbit/s up,12,240,24,"Wifi via 5,0 GHz frequentieband",TP-LINK Wireless USB Adapter,Nee,Intel Core i5-4670,(video)streamen,Geen verbetering
@@ -389,7 +389,7 @@ Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,1
 Mediabox XL (7400),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,214.1,20.58,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Core 2 Duo,Surfen (websites bezoeken),Veranderen van hardware
 Connectbox (Compal CH7465LG),Ja,Netgear,Unknown,200 Mbit/s down - 20 Mbit/s up,12,84,14,"Wifi via 5,0 GHz frequentieband",Realtek PCIe GBE Family Controller,Nee,Intel Core i7-3770,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,Asus RT-AC68U,Asuswrt-Merlin,250 Mbit/s down - 25 Mbit/s up,12,255,25,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-4700,(video)streamen,Geen verbetering
-Connectbox (Compal CH7465LG),Ja,CBN CH7465,Unknown,200 Mbit/s down - 20 Mbit/s up,9,203.9,20.2,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Core i5-4200u,Downloaden,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,CBN CH7465,Unknown,200 Mbit/s down - 20 Mbit/s up,9,203.9,20.2,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Core i5-4200u,Downloaden,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,Asus RT-AC86U,Current Version : 3.0.0.4.384_20467-g40feafb,200 Mbit/s down - 20 Mbit/s up,13,195,20,"Wifi via 5,0 GHz frequentieband",Intel Centrino Advanced N-6205,Ja,Intel Core i5-2520m,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,AMPLIFI van Ubiquiti,Unknown,200 Mbit/s down - 20 Mbit/s up,14,203,20,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Unknown,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Archer C3200,Unknown,400 Mbit/s down - 40 Mbit/s up,9,420.1,40.1,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7-920,Gamen,Geen verbetering
@@ -400,10 +400,10 @@ Technicolor TC7210,Ja,Asus RT-AC68U,380.65.9,400 Mbit/s down - 40 Mbit/s up,5,40
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,3,204,21,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD,Gamen,Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,205,20,"Wifi via 5,0 GHz frequentieband",Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Pentium,(video)streamen,Geen verbetering
 Mediabox XL (7400),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,206,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i3,(video)streamen,Geen verbetering
-Ubee EVW321B,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,7,25.9,25.3,Netwerkkabel,Killer E2200,Nee,Intel Core i5-4460,(video)streamen,Overbelasting voor het netwerk
+Ubee EVW321B,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,7,25.9,25.3,Netwerkkabel,Killer E2200,Nee,Intel Core i5-4460,(video)streamen,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Ja,Draytek  Vigor 2925AC,Unknown,400 Mbit/s down - 40 Mbit/s up,11,399,40,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-7500,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Asus RT-AC87U,3.0.0.4,200 Mbit/s down - 20 Mbit/s up,14,210.8,20.7,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,Downloaden,Veranderen van netwerkmedium
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,145,16.8,Netwerkkabel,Intel 82579LM,Nee,Intel Core i7,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,145,16.8,Netwerkkabel,Intel 82579LM,Nee,Intel Core i7,(video)streamen,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Ja,Arris TG2492LG,9.1.116BR6,250 Mbit/s down - 25 Mbit/s up,14,62,25,"Wifi via 5,0 GHz frequentieband",Broadcom 802.11,Nee,Intel Pentium,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,32.1,20.1,"Wifi via 2,4 GHz frequentieband",DW1704,Nee,Intel Core i5-7400,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,253,25.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-4460,Gamen,Geen verbetering
@@ -412,7 +412,7 @@ Technicolor TC7210,Ja,EA6500 Support  Smart Wi-Fi Router AC 1750,laatste softwar
 Technicolor TC7210,Ja,TP LINK AC1750,Unknown,200 Mbit/s down - 20 Mbit/s up,14,197.9,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2600,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Arris TG2492LG),Ja,Almond 2000,Unknown,200 Mbit/s down - 20 Mbit/s up,124,199,20,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Unknown,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,114,20,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC8265,Nee,Intel Core i7,Gamen,Veranderen van netwerkmedium
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,50,3,1,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7,Gamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,50,3,1,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,20,20,14,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i7,Gamen,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,14,16.7,4.1,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Intel Pentium,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,Linsys sisco,Unknown,200 Mbit/s down - 20 Mbit/s up,16,29,17,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Unknown,Gamen,Veranderen van netwerkmedium
@@ -426,7 +426,7 @@ Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,1
 Cisco EPC3928,Ja,asus,Unknown,200 Mbit/s down - 20 Mbit/s up,49,204.6,19.4,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD Athlon X4 860K,Surfen (websites bezoeken),Veranderen van hardware
 Ubee EVW3226,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,82,14.6,Netwerkkabel,Intel Pro 1000,Nee,Intel Xeon E3-1220,Gamen,Veranderen van hardware
 Connectbox (Compal CH7465LG),Ja,RT-AC66U,Asus-Merlin RT-AC66U_380.70_0,250 Mbit/s down - 25 Mbit/s up,9,261,27,Netwerkkabel,Intel I211,Nee,AMD FX8350,Gamen,Geen verbetering
-Connectbox (Compal CH7465LG),Ja,Synology RT2600AC,SRM 1.1.6-6931 Update 3,400 Mbit/s down - 40 Mbit/s up,5,265,35,Netwerkkabel,Intel 82579LM,Nee,Intel Core i5-2400s,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,Synology RT2600AC,SRM 1.1.6-6931 Update 3,400 Mbit/s down - 40 Mbit/s up,5,265,35,Netwerkkabel,Intel 82579LM,Nee,Intel Core i5-2400s,(video)streamen,Overbelasting van het netwerk
 Cisco EPC3928,Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,8,40,4,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD Ryzen 5 1600,Gamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,sitecom wlr 8100,Unknown,400 Mbit/s down - 40 Mbit/s up,12,405,40.2,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-3770,Downloaden,Geen verbetering
 Ubee EVM3200,Ja,D-Link DIR-850L,Unknown,40 Mbit/s down - 4 Mbit/s up,6,36.1,4.1,"Wifi via 2,4 GHz frequentieband",Realtek 8188EE,Nee,Intel Core i3-5005u,Downloaden,Geen verbetering
@@ -444,7 +444,7 @@ Connectbox (Compal CH7465LG),Ja,d-link dir655,linux,200 Mbit/s down - 20 Mbit/s 
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,30,30,4,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Intel Core i5-6300u,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,AMPLIFI van Ubiquiti,Unknown,200 Mbit/s down - 20 Mbit/s up,14,203,20,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Unknown,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,47,29,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR9485,Nee,Intel Core i5-3210m,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Mediabox XL (7400),Nee,Unknown,Unknown,250 Mbit/s down - 25 Mbit/s up,98,253,25,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-4460,Gamen,Overbelasting voor het netwerk
+Mediabox XL (7400),Nee,Unknown,Unknown,250 Mbit/s down - 25 Mbit/s up,98,253,25,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-4460,Gamen,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,13,173,44,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Gamen,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,Apple Timecapsule,Mac OS 10.13,400 Mbit/s down - 40 Mbit/s up,15,401,35,Netwerkkabel,Unknown,Nee,Intel Core i5,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,12,39,4,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Unknown,Surfen (websites bezoeken),Geen verbetering
@@ -455,10 +455,10 @@ Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,1
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,9,92.8,20.9,Netwerkkabel,Broadcom 4313GN,Nee,Intel Core 2 Duo,Downloaden,Veranderen van hardware
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,205,20.6,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC7260,Nee,Intel Core i7-4700,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,85.9,20.1,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,(video)streamen,Veranderen van netwerkmedium
-Mediabox XL (7401),Ja,Ziggo CH7465LG-ZG,Unknown,200 Mbit/s down - 20 Mbit/s up,12,190.3,20.4,Netwerkkabel,Inventec PCIe GBE Family Controller,Ja,Intel Core i3-3220,Downloaden,Overbelasting voor het netwerk
-Mediabox XL (7401),Ja,Netgear R7000,V1.0.9.26,400 Mbit/s down - 40 Mbit/s up,15,337,40,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5,(video)streamen,Overbelasting voor het netwerk
-Mediabox XL (7401),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,39.6,18.6,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,AMD A8-7410,Gamen,Overbelasting voor het netwerk
-Connectbox (Arris TG2492LG),Ja,netgear,Unknown,200 Mbit/s down - 20 Mbit/s up,8,94.4,20.1,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-7400,Gamen,Overbelasting voor het netwerk
+Mediabox XL (7401),Ja,Ziggo CH7465LG-ZG,Unknown,200 Mbit/s down - 20 Mbit/s up,12,190.3,20.4,Netwerkkabel,Inventec PCIe GBE Family Controller,Ja,Intel Core i3-3220,Downloaden,Overbelasting van het netwerk
+Mediabox XL (7401),Ja,Netgear R7000,V1.0.9.26,400 Mbit/s down - 40 Mbit/s up,15,337,40,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5,(video)streamen,Overbelasting van het netwerk
+Mediabox XL (7401),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,39.6,18.6,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,AMD A8-7410,Gamen,Overbelasting van het netwerk
+Connectbox (Arris TG2492LG),Ja,netgear,Unknown,200 Mbit/s down - 20 Mbit/s up,8,94.4,20.1,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-7400,Gamen,Overbelasting van het netwerk
 Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,13,28,19,"Wifi via 2,4 GHz frequentieband",802.11n Wireless LAN Card,Nee,Intel Pentium N3530,(video)streamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,Fritzbox 4040,FritzOS 06.83,200 Mbit/s down - 20 Mbit/s up,13,11,19.2,"Wifi via 2,4 GHz frequentieband",TP-Link Gigabit PCI Express Adapter,Ja,Intel Core i5-3550k,Gamen,Veranderen van netwerkmedium
 Technicolor TC7210,Ja,Netgear Nighthawk R7500 + R7000 (slave),Meest recente software te allen tijde,200 Mbit/s down - 20 Mbit/s up,13,206,21,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-3770,Gamen,Geen verbetering
@@ -467,8 +467,8 @@ Technicolor TC7200,Ja,ASUS RT-AC68U,Merlin fork 374.43_32E4j9527,200 Mbit/s down
 Cisco EPC3928,Ja,Fritz!box 7390,FRITZ!OS 06.83,400 Mbit/s down - 40 Mbit/s up,12,187,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-3610qm,Downloaden,Veranderen van modem
 Technicolor TC7210,Ja,netgear nighthawk,Unknown,400 Mbit/s down - 40 Mbit/s up,12,413,39,Netwerkkabel,Intel 82577LM,Nee,Intel Core i5,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,120,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD A10-5800K,Downloaden,Veranderen van hardware
-Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,184.1,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2670qm,(video)streamen,Overbelasting voor het netwerk
-Ubee EVW321B,Ja,Tp-link asher c7,Unknown,50 Mbit/s down - 5 Mbit/s up,15,38,4,Netwerkkabel,Realtek 8111C,Ja,Intel Core i3,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,184.1,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-2670qm,(video)streamen,Overbelasting van het netwerk
+Ubee EVW321B,Ja,Tp-link asher c7,Unknown,50 Mbit/s down - 5 Mbit/s up,15,38,4,Netwerkkabel,Realtek 8111C,Ja,Intel Core i3,(video)streamen,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,208,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core 2 Duo,Downloaden,Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,50 Mbit/s down - 5 Mbit/s up,12,25,2,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR956x,Nee,Intel Core i7-4500u,Gamen,Veranderen van netwerkmedium
 Mediabox XL (7401),Ja,Netgear R7000,Unknown,200 Mbit/s down - 20 Mbit/s up,9,30,40,"Wifi via 2,4 GHz frequentieband",Realtek PCIe GBE Family Controller,Nee,Intel Core i7-2600,Surfen (websites bezoeken),Veranderen van netwerkmedium
@@ -480,10 +480,10 @@ Mediabox XL (7400),Ja,Ziggo CH7465LG-ZG,Unknown,200 Mbit/s down - 20 Mbit/s up,1
 Connectbox (Compal CH7465LG),Ja,Netgear Nighthawk,Unknown,400 Mbit/s down - 40 Mbit/s up,14,52.7,23.7,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros QCA9377,Nee,AMD A8-7410,Downloaden,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,TP-Link,Unknown,200 Mbit/s down - 20 Mbit/s up,11,206.3,20.5,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD A10-7850K,(video)streamen,Geen verbetering
 Ubee EVW3226,Ja,Apple AirPort extreme / time capsule,7.7.9 (77900.2),200 Mbit/s down - 20 Mbit/s up,14,188.1,20.1,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Gamen,Veranderen van netwerkmedium
-Thomson TWG870,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,76.7,20.6,Netwerkkabel,Intel 82579,Nee,Intel Core i5-3330,Downloaden,Overbelasting voor het netwerk
+Thomson TWG870,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,76.7,20.6,Netwerkkabel,Intel 82579,Nee,Intel Core i5-3330,Downloaden,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,205,19,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD Phenom 9650,(video)streamen,Geen verbetering
 Ubee EVW321B,Ja,Sitecom,Unknown,200 Mbit/s down - 20 Mbit/s up,13,41.6,18.4,"Wifi via 2,4 GHz frequentieband",Intel N7260,Nee,Intel Core i5-3230m,Downloaden,Veranderen van netwerkmedium
-Mediabox XL (7401),Ja,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,203.1,20.6,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-6400,(video)streamen,Overbelasting voor het netwerk
+Mediabox XL (7401),Ja,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,203.1,20.6,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-6400,(video)streamen,Overbelasting van het netwerk
 Ubee EVW321B,Ja,Asus AC3200,3.0.0.4.382_50010,200 Mbit/s down - 20 Mbit/s up,16,214,24.5,"Wifi via 5,0 GHz frequentieband",Marvell Yukon,Nee,Intel Core i7,Downloaden,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Ja,Arris TG2492LG-ZG,Unknown,200 Mbit/s down - 20 Mbit/s up,12,45.5,20.7,"Wifi via 2,4 GHz frequentieband",Unknown,Nee,Intel Core i5-5200u,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Technicolor TC7210,Ja,Apple AirPort Extreme,Apple,200 Mbit/s down - 20 Mbit/s up,9,204,20,Netwerkkabel,Apple Broadcom,Nee,Intel Core i7,(video)streamen,Geen verbetering
@@ -494,13 +494,13 @@ Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,
 Connectbox (Compal CH7465LG),Ja,Archer C2600,1.1.8 Build 20170306 Rel. 44838,400 Mbit/s down - 40 Mbit/s up,19,399,35,Netwerkkabel,Intel Pro 1000,Ja,Intel Xeon E3-1220,(video)streamen,Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,186,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Pentium,(video)streamen,Veranderen van hardware
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,236,24,Netwerkkabel,Killer E2500,Nee,Intel Core i7-6500u,Gamen,Geen verbetering
-Connectbox (Compal CH7465LG),Ja,netgear r6400,laatste,200 Mbit/s down - 20 Mbit/s up,11,189,16,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,AMD Athlon II X2 B22,Surfen (websites bezoeken),Overbelasting voor het netwerk
-Connectbox (Arris TG2492LG),Ja,TP Link,Unknown,200 Mbit/s down - 20 Mbit/s up,14,197,14,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-3550k,Gamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,netgear r6400,laatste,200 Mbit/s down - 20 Mbit/s up,11,189,16,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,AMD Athlon II X2 B22,Surfen (websites bezoeken),Overbelasting van het netwerk
+Connectbox (Arris TG2492LG),Ja,TP Link,Unknown,200 Mbit/s down - 20 Mbit/s up,14,197,14,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-3550k,Gamen,Overbelasting van het netwerk
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,7,204,20.3,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,Downloaden,Geen verbetering
 Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,8,381.7,36.2,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-7700k,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,10,403.2,41.5,Netwerkkabel,Qualcomm Atheros QCA9377,Nee,Intel Core i5-3230m,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Ja,Unifi USG Security Gateway,4.4.18,200 Mbit/s down - 20 Mbit/s up,8,90,20,"Wifi via 5,0 GHz frequentieband",Linksys WUSB6400M,Nee,Intel Core i7-3770,Gamen,Veranderen van netwerkmedium
-Hitron CGNV4,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,9,279,42,Netwerkkabel,Intel 82579V,Nee,Intel Core i5-2500k,(video)streamen,Overbelasting voor het netwerk
+Hitron CGNV4,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,9,279,42,Netwerkkabel,Intel 82579V,Nee,Intel Core i5-2500k,(video)streamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,Asus RT-N66U,Unknown,200 Mbit/s down - 20 Mbit/s up,16,67.6,9.4,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Gamen,Veranderen van netwerkmedium
 Cisco EPC3928,Ja,Synology rt1900ac,Synology Router Manager (SRM),200 Mbit/s down - 20 Mbit/s up,11,137,21,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC7260,Nee,Intel Core i5-4200u,Gamen,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,Sitecom WLR-3000 v2 001,Unknown,200 Mbit/s down - 20 Mbit/s up,15,217,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-2300,(video)streamen,Geen verbetering
@@ -514,7 +514,7 @@ Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,2
 Cisco EPC3925,Ja,cisco epc 3925,e3925-ES-12-c1100r5593-140522c_upc,200 Mbit/s down - 20 Mbit/s up,11,76,14,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC3160,Nee,Intel Core i5-6300hq,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,45,137,20,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros QCA9377,Nee,AMD A6-7310,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,44.1,20.6,"Wifi via 5,0 GHz frequentieband",Realtek 8188EE,Nee,Intel Core i3-5005u,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Cisco EPC3928,Ja,Ziggo C7,V2,200 Mbit/s down - 20 Mbit/s up,11,95,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3,Gamen,Overbelasting voor het netwerk
+Cisco EPC3928,Ja,Ziggo C7,V2,200 Mbit/s down - 20 Mbit/s up,11,95,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3,Gamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Ja,Netgear GS105E,Unknown,400 Mbit/s down - 40 Mbit/s up,10,401,39,Netwerkkabel,Intel I1217-LM,Nee,Intel Core i5-4570,(video)streamen,Geen verbetering
 Technicolor TC7210,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,201,20,Netwerkkabel,Intel I219-V,Nee,Intel Core i5-6600k,Downloaden,Geen verbetering
 Technicolor TC7210,Ja,Draytek Vigor2130N,Unknown,200 Mbit/s down - 20 Mbit/s up,8,245,24,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-3550,Gamen,Geen verbetering
@@ -539,7 +539,7 @@ Connectbox (Compal CH7465LG),Ja,TP-Link WR1043ND,Unknown,200 Mbit/s down - 20 Mb
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,167,20,"Wifi via 5,0 GHz frequentieband",Realtek PCIe GBE Family Controller,Nee,Intel Core i5-4210u,Downloaden,Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,16,39.7,20.6,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros QCA9565,Nee,Intel Core i3,(video)streamen,Veranderen van netwerkmedium
 Linksys EA6900V1.1,Ja,linksig,Unknown,40 Mbit/s down - 4 Mbit/s up,11,40.9,4.2,Netwerkkabel,Apple Broadcom,Nee,Intel Core i5,Downloaden,Geen verbetering
-Cisco EPC3928,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,19.3,20.12,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-7400,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Cisco EPC3928,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,11,19.3,20.12,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-7400,Surfen (websites bezoeken),Overbelasting van het netwerk
 Technicolor TC7200,Ja,Netgear R6300v2,Netgear genie,200 Mbit/s down - 20 Mbit/s up,10,255,25,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,Intel Core i5-8600k,Surfen (websites bezoeken),Geen verbetering
 Technicolor TC7210,Ja,F-Secure Sense,Sense,200 Mbit/s down - 20 Mbit/s up,10,206,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i3-4160,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,15,40,20,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros AR9285,Nee,Intel Core i5,Downloaden,Veranderen van netwerkmedium
@@ -549,20 +549,20 @@ Connectbox (Arris TG2492LG),Ja,Sitecom,Unknown,200 Mbit/s down - 20 Mbit/s up,15
 Cisco EPC3925,Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,12,168,23,"Wifi via 5,0 GHz frequentieband",Realtek PCIe GBE Family Controller,Ja,Intel Core i7,Surfen (websites bezoeken),Veranderen van netwerkmedium
 Connectbox (Compal CH7465LG),Ja,TPLINK RE450,Unknown,200 Mbit/s down - 20 Mbit/s up,15,41,20,"Wifi via 5,0 GHz frequentieband",Qualcomm Atheros AR9285,Nee,Intel Core i3-m370,Downloaden,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,40 Mbit/s down - 4 Mbit/s up,49,26,3,"Wifi via 2,4 GHz frequentieband",Intel Wireless AC3168,Nee,Intel Core i5-8250u,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,10,356.5,41.6,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD,Downloaden,Overbelasting voor het netwerk
+Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,10,356.5,41.6,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,AMD,Downloaden,Overbelasting van het netwerk
 Technicolor TC7210,Ja,Apple Airport Time Capsule,Unknown,250 Mbit/s down - 25 Mbit/s up,13,242.5,25.1,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i7,Gamen,Geen verbetering
-Cisco EPC3928,Ja,Apple Airport Time Capsule,7.7.9,200 Mbit/s down - 20 Mbit/s up,9,112.7,25.7,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Core i7,(video)streamen,Overbelasting voor het netwerk
+Cisco EPC3928,Ja,Apple Airport Time Capsule,7.7.9,200 Mbit/s down - 20 Mbit/s up,9,112.7,25.7,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Core i7,(video)streamen,Overbelasting van het netwerk
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,8,195,21,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i7-4790,(video)streamen,Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,196,20.1,Netwerkkabel,Unknown,Nee,Intel Core i7,Downloaden,Geen verbetering
 Ubee EVW3226,Ja,Ubee,Unknown,200 Mbit/s down - 20 Mbit/s up,14,80.4,20.5,"Wifi via 2,4 GHz frequentieband",Intel 5300 AGN,Nee,Intel Core i7-2600qm,Surfen (websites bezoeken),Veranderen van netwerkmedium
-Mediabox XL (7400),Ja,Technicolor,Unknown,200 Mbit/s down - 20 Mbit/s up,9,85,21,Netwerkkabel,ASIX AX88772B,Nee,Intel Core i7,Surfen (websites bezoeken),Overbelasting voor het netwerk
+Mediabox XL (7400),Ja,Technicolor,Unknown,200 Mbit/s down - 20 Mbit/s up,9,85,21,Netwerkkabel,ASIX AX88772B,Nee,Intel Core i7,Surfen (websites bezoeken),Overbelasting van het netwerk
 Technicolor TC7210,Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,6,444,44,Netwerkkabel,Realtek PCIe GBE Family controller,Ja,Intel Core i7-2600k,Gamen,Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,13,174.6,19.6,"Wifi via 5,0 GHz frequentieband",Intel Wireless AC3160,Nee,Intel Core i5-5200u,Downloaden,Veranderen van netwerkmedium
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,14,204,20,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,(video)streamen,Geen verbetering
-Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,11,359,40,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-6700,(video)streamen,Overbelasting voor het netwerk
-Ubee EVW321B,Ja,Netgear R8000,Unknown,200 Mbit/s down - 20 Mbit/s up,11,96,11,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Core i3,Downloaden,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,400 Mbit/s down - 40 Mbit/s up,11,359,40,Netwerkkabel,Intel I219-V,Nee,Intel Core i7-6700,(video)streamen,Overbelasting van het netwerk
+Ubee EVW321B,Ja,Netgear R8000,Unknown,200 Mbit/s down - 20 Mbit/s up,11,96,11,Netwerkkabel,Broadcom NetLink (TM) Gigabit Ethernet,Nee,Intel Core i3,Downloaden,Overbelasting van het netwerk
 Cisco EPC3928,Ja,tp link n750,Unknown,200 Mbit/s down - 20 Mbit/s up,8,200.5,20.7,Netwerkkabel,Realtek PCIe GBE Family Controller,Nee,AMD FX6100,Surfen (websites bezoeken),Geen verbetering
-Connectbox (Compal CH7465LG),Ja,HP Workstation met 8 poorts netwerkkaart,PfSense,400 Mbit/s down - 40 Mbit/s up,16,338,41,Netwerkkabel,Intel Wireless AC3160,Ja,Intel Core i5-2500k,(video)streamen,Overbelasting voor het netwerk
+Connectbox (Compal CH7465LG),Ja,HP Workstation met 8 poorts netwerkkaart,PfSense,400 Mbit/s down - 40 Mbit/s up,16,338,41,Netwerkkabel,Intel Wireless AC3160,Ja,Intel Core i5-2500k,(video)streamen,Overbelasting van het netwerk
 Ubee EVM3200,Ja,ASUS RT-AC87U,3.0.0.4.382_50010,200 Mbit/s down - 20 Mbit/s up,14,198,21,"Wifi via 5,0 GHz frequentieband",Apple Broadcom,Nee,Intel Core i5,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Compal CH7465LG),Nee,Unknown,Unknown,200 Mbit/s down - 20 Mbit/s up,10,199,20,Netwerkkabel,Realtek PCIe GBE Family Controller,Ja,Intel Core i5-4460,Surfen (websites bezoeken),Geen verbetering
 Connectbox (Arris TG2492LG),Nee,Unknown,Unknown,50 Mbit/s down - 5 Mbit/s up,16,25,2.5,"Wifi via 2,4 GHz frequentieband",Qualcomm Atheros QCA9377,Nee,Intel Core i5-5200u,Downloaden,Veranderen van netwerkmedium
